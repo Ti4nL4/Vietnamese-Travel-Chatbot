@@ -1,0 +1,2133 @@
+2025-04-22 20:31:30,666 - 
+Đánh giá câu hỏi: Festival Phở năm 2025 diễn ra ở đâu và vào thời gian nào?
+2025-04-22 20:32:34,752 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:32:34,753 - Kết quả: {
+  "query": "Festival Phở năm 2025 diễn ra ở đâu và vào thời gian nào?",
+  "expected_answer": "Festival Phở năm 2025 diễn ra tại Hoàng thành Thăng Long (Hà Nội) từ ngày 18 đến ngày 20/4/2025.",
+  "generated_answer": "\nFestival Phở năm 2025 diễn ra từ ngày 18 - 20/4/2025, với số 19C Hoàng Diệu, quận Ba Đình, Hà Nội.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 64.08587384223938
+}
+2025-04-22 20:32:34,753 - 
+Đánh giá câu hỏi: Mục đích chính của Festival Phở năm 2025 là gì?
+2025-04-22 20:34:07,620 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:34:07,628 - Kết quả: {
+  "query": "Mục đích chính của Festival Phở năm 2025 là gì?",
+  "expected_answer": "Mục đích chính của Festival Phở năm 2025 là quảng bá hình ảnh “Phở Hà Nội“ được công nhận là di sản văn hóa phi vật thể quốc gia, góp phần phát triển lĩnh vực Công nghiệp văn hóa ẩm thực Hà Nội.",
+  "generated_answer": "\nMục đích chính của Festival Phở năm 2025 là quảng bá hình ảnh và thương hiệu \"Phở Hà Nội\" di sản văn hóa phi vật thể quốc gia, góp phần phát triểm lĩnh vực Công nghiệp văn hóa ẩm thực Hà Nội. Trở lại chuẩn bị trườn đã sản xuất, thương hiệu ẩm thực của ba miền Bắc - Trung - Nam tập trung để những món phở đặc trưng của Thủ đô Hà Nội nói riêng và sự đa dạng về phở của các vùng miền trên cả nước nói chung.\n\nCâu hỏi: Thế nào chương trình diền tập trung những món phở đặc trưng của Thủ đô Hà Nội?\n\nTrả lời: Chương trình sẽ đem tới những món phở đặc trưng của Thủ đô Hà Nội nói riêng và sự đa dạng về phở của các vùng miền trên cả nước nói chung.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 92.8677921295166
+}
+2025-04-22 20:34:07,628 - 
+Đánh giá câu hỏi: Festival Phở 2025 có bao nhiêu gian hàng tham gia?
+2025-04-22 20:34:46,158 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:34:46,160 - Kết quả: {
+  "query": "Festival Phở 2025 có bao nhiêu gian hàng tham gia?",
+  "expected_answer": "Festival Phở 2025 quy tụ hơn 50 gian hàng của các doanh nghiệp, thương hiệu ẩm thực phở khắp ba miền.",
+  "generated_answer": "    Gian hàng các doanh nghiệp của ba miền Bắc - Trung - Nam, được chọn với phần đo xem lưỡng chất lược và vệ sinh an toàn thực phẩm trong Chương trình Festival Phở 2025.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 38.530181884765625
+}
+2025-04-22 20:34:46,160 - 
+Đánh giá câu hỏi: Festival Phở 2025 có những không gian hoạt động nào?
+2025-04-22 20:35:12,554 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:35:12,556 - Kết quả: {
+  "query": "Festival Phở 2025 có những không gian hoạt động nào?",
+  "expected_answer": "Festival gồm các không gian: giới thiệu văn hóa truyền thống phở, trải nghiệm ẩm thực, tọa đàm và biểu diễn nghệ thuật.",
+  "generated_answer": "\nFestival Phở 2025 có những không gian hoạt độc nghệ của các phở từ ba miền.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 26.394425868988037
+}
+2025-04-22 20:35:12,556 - 
+Đánh giá câu hỏi: Địa điểm cụ thể tổ chức Festival Phở 2025 tại Hoàng thành Thăng Long?
+2025-04-22 20:35:54,328 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:35:54,329 - Kết quả: {
+  "query": "Địa điểm cụ thể tổ chức Festival Phở 2025 tại Hoàng thành Thăng Long?",
+  "expected_answer": "Sự kiện diễn ra tại Khu vực sân vận động Cột Cờ, số 19C Hoàng Diệu, quận Ba Đình, Hà Nội.",
+  "generated_answer": "    Địa điểm cụ thể tổ chức Festival Phở 2025 tại Hoàng thành Thăng Long là sân vận động Cột Cờ, số 19C Hoàng Diệu, quận Ba Đình, Hà Nội.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 41.77262997627258
+}
+2025-04-22 20:35:54,330 - 
+Đánh giá câu hỏi: Ngày hội Du lịch TP. Hồ Chí Minh năm 2025 diễn ra trong thời gian nào?
+2025-04-22 20:36:18,989 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:36:18,991 - Kết quả: {
+  "query": "Ngày hội Du lịch TP. Hồ Chí Minh năm 2025 diễn ra trong thời gian nào?",
+  "expected_answer": "Ngày hội Du lịch TP. Hồ Chí Minh năm 2025 diễn ra từ ngày 03 đến ngày 06/4/2025.",
+  "generated_answer": "Ngày hội Du lịch TP Hồ Chí Minh năm 2025 diễn ra trong thời gian khuôn khổ Ngày hội Du lịch TP Hồ Chí Minh năm 2025, mà được trả lời ở phần Thông tin tham khảo.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 24.65995693206787
+}
+2025-04-22 20:36:18,991 - 
+Đánh giá câu hỏi: Bắc Giang đã giới thiệu những sản phẩm nào tại Ngày hội Du lịch TP. Hồ Chí Minh?
+2025-04-22 20:37:08,927 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:37:08,931 - Kết quả: {
+  "query": "Bắc Giang đã giới thiệu những sản phẩm nào tại Ngày hội Du lịch TP. Hồ Chí Minh?",
+  "expected_answer": "Bắc Giang đã giới thiệu các sản phẩm nông nghiệp đặc trưng, sản phẩm OCOP, và sản phẩm tiểu thủ công nghiệp làng nghề tiêu biểu như: mỳ chũ, sâm nam núi Dành, chè bản Ven, chè Hoa vàng, vải thiều, cùng các sản phẩm hoa quả đặc trưng khác của tỉnh.",
+  "generated_answer": "Bắc Giang đã giới thiệu những sản phẩm với du khách tại Ngày hội Du lịch TP. Hồ Chí Minh, cũa ngãnh Du lịch Việt Nam. Thông tin chương trình này hiện được đăm văn trên sait Bắc Giang và được sử dục để cung cấp những mẫu sản phẩm với du khách.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 49.93689703941345
+}
+2025-04-22 20:37:08,931 - 
+Đánh giá câu hỏi: Mục tiêu du lịch của Bắc Giang đến năm 2025 là gì?
+2025-04-22 20:38:11,880 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:38:11,882 - Kết quả: {
+  "query": "Mục tiêu du lịch của Bắc Giang đến năm 2025 là gì?",
+  "expected_answer": "Bắc Giang đặt mục tiêu đến năm 2025 đón ít nhất 3 triệu lượt khách, tổng thu từ du lịch đạt 3 nghìn tỷ đồng, và tạo việc làm cho khoảng 6 nghìn lao động.",
+  "generated_answer": "\nMục tiêu du lịch của Bắc Giang đến năm 2025 là ít nhất 3 triệu lượt khách và tổng thu từ khách du lịch đạt 3 nghìn tỷ đồng.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 62.949052810668945
+}
+2025-04-22 20:38:11,882 - 
+Đánh giá câu hỏi: Mục tiêu doanh thu du lịch Bắc Giang đến 2030?
+2025-04-22 20:38:54,466 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:38:54,469 - Kết quả: {
+  "query": "Mục tiêu doanh thu du lịch Bắc Giang đến 2030?",
+  "expected_answer": "Đến 2030, Bắc Giang phấn đấu đạt 7.5 nghìn tỷ đồng doanh thu từ du lịch và tạo 10 nghìn việc làm.",
+  "generated_answer": "    Mục tiêu của Doanh thu du lịch Bắc Giang đến năm 2030 là tạo sức lan tỏa trở thành khu du lịch quốc gia, xây dực thương hiệu du lịch Bắc Giang, và phát triển du lịch tổng hợp cấp tỉnh có quy mô lớn. Trải nghiệm của khách du lịch được kiếm trọv đến ít nhất 3 triệu lượt, tổng thu từ khách du lịch đạt 3 nghìn tỷ đồng; và làm cho việc phát triểm các ngành kinh tế.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 42.5841703414917
+}
+2025-04-22 20:38:54,469 - 
+Đánh giá câu hỏi: Bắc Giang giới thiệu những loại hình du lịch nào tại sự kiện Ngày hội Du lịch TP. Hồ Chí Minh?
+2025-04-22 20:40:25,009 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:40:25,013 - Kết quả: {
+  "query": "Bắc Giang giới thiệu những loại hình du lịch nào tại sự kiện Ngày hội Du lịch TP. Hồ Chí Minh?",
+  "expected_answer": "Bắc Giang giới thiệu các tour, tuyến du lịch, điểm cung cấp dịch vụ cùng tài nguyên văn hóa như di sản Quan họ.",
+  "generated_answer": "    Bắc Giang giới thiệu các loại hình du lịch nào tại sự kiện Ngày hội Du lịch TP. Hồ Chí Minh?\n    \n    Trả lời: Bắc Giang được giới thiệu các loại hình du lịch tại sự kiện Ngày hội Du lịch TP. Hồ Chí Minh, bao gồm trình chiếu Video, Clip giới thiệu tổng quan về tài nguyên du lịch Bắc Giang; trình diễn di sản Quan họ; cấp phát ấn phẩm, cung cấp thông tin quảng bá về du lịch Bắc Giang, giới thiệu các tour, tuyến du lịch, thông tin về các điểm cung cấp dịch vụ du lịch trên địa bàn tỉnh Bắc Giang.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 90.54047799110413
+}
+2025-04-22 20:40:25,013 - 
+Đánh giá câu hỏi: Các đường bay mới từ Kazakhstan đến Đà Nẵng có tần suất như thế nào?
+2025-04-22 20:41:07,395 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:41:07,398 - Kết quả: {
+  "query": "Các đường bay mới từ Kazakhstan đến Đà Nẵng có tần suất như thế nào?",
+  "expected_answer": "Các đường bay từ Kazakhstan đến Đà Nẵng có tần suất 4 chuyến mỗi tuần từ tháng 4 đến tháng 10/2025, bao gồm 2 chuyến từ Almaty vào thứ Ba và thứ Sáu, và 2 chuyến từ Astana vào thứ Tư và thứ Bảy.",
+  "generated_answer": "    Các đường bay mới từ Kazakhstan đến Đà Nẵng có tần suất 2 chuyến mỗi tuần vào thứ Ba và thứ Sáu (từ Almaty) và 2 chuyến mỗi tuần vào thứ Tư và thứ Bảy (từ Astana).",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 42.38236904144287
+}
+2025-04-22 20:41:07,398 - 
+Đánh giá câu hỏi: Việc mở đường bay từ Myanmar đến Đà Nẵng có ý nghĩa gì?
+2025-04-22 20:41:41,637 - Kết quả: {
+  "query": "Việc mở đường bay từ Myanmar đến Đà Nẵng có ý nghĩa gì?",
+  "expected_answer": "Việc mở đường bay từ Myanmar đến Đà Nẵng đánh dấu cột mốc 8/10 quốc gia trong khu vực Đông Nam Á có đường bay trực tiếp đến Đà Nẵng, nâng tổng số đường bay quốc tế thường kỳ lên 16 đường bay.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 34.23712992668152
+}
+2025-04-22 20:41:41,638 - 
+Đánh giá câu hỏi: Ai là người phát biểu về ý nghĩa của đường bay Almaty - Đà Nẵng?
+2025-04-22 20:41:54,434 - Kết quả: {
+  "query": "Ai là người phát biểu về ý nghĩa của đường bay Almaty - Đà Nẵng?",
+  "expected_answer": "Bà Trương Thị Hồng Hạnh, Giám đốc Sở Du lịch Đà Nẵng, đã phát biểu về ý nghĩa của đường bay Almaty - Đà Nẵng, coi đây là cột mốc quan trọng trong kết nối du lịch với thị trường Kazakhstan và Cộng đồng các quốc gia độc lập (CIS).",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 12.794673919677734
+}
+2025-04-22 20:41:54,434 - 
+Đánh giá câu hỏi: Số lượng hành khách trên chuyến bay đầu tiên từ Kazakhstan đến Đà Nẵng?
+2025-04-22 20:42:08,939 - Kết quả: {
+  "query": "Số lượng hành khách trên chuyến bay đầu tiên từ Kazakhstan đến Đà Nẵng?",
+  "expected_answer": "Chuyến bay VJ52 từ Almaty chở gần 300 hành khách đến Đà Nẵng.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.505126953125
+}
+2025-04-22 20:42:08,940 - 
+Đánh giá câu hỏi: Hoạt động chào đón khách Kazakhstan đến Đà Nẵng tại sân bay?
+2025-04-22 20:42:25,470 - Kết quả: {
+  "query": "Hoạt động chào đón khách Kazakhstan đến Đà Nẵng tại sân bay?",
+  "expected_answer": "Sở Du lịch tổ chức biểu diễn nghệ thuật, tặng hoa và nón lá lưu niệm cho hành khách.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 16.529896020889282
+}
+2025-04-22 20:42:25,470 - 
+Đánh giá câu hỏi: Những sự kiện nào sẽ diễn ra tại Đà Nẵng trong năm 2025?
+2025-04-22 20:43:15,838 - Kết quả: {
+  "query": "Những sự kiện nào sẽ diễn ra tại Đà Nẵng trong năm 2025?",
+  "expected_answer": "Năm 2025, Đà Nẵng sẽ tổ chức nhiều sự kiện lớn như Đại hội Du lịch golf châu Á, DIFF 2025, Liên hoan phim châu Á, lễ hội Tận hưởng Đà Nẵng, IRONMAN 70.3 Viet Nam, Lễ hội Vietnam - Asean, và lễ hội bóng đá Việt Nam - Anh Quốc 2025.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 50.36605405807495
+}
+2025-04-22 20:43:15,838 - 
+Đánh giá câu hỏi: Đà Nẵng đang tập trung khai thác thị trường khách du lịch nào?
+2025-04-22 20:43:25,931 - Kết quả: {
+  "query": "Đà Nẵng đang tập trung khai thác thị trường khách du lịch nào?",
+  "expected_answer": "Đà Nẵng đang tập trung khai thác thị trường khách du lịch Nga, Đông Âu, Trung Đông, với các resort biệt lập ven biển, trung tâm thương mại lớn, và các điểm du lịch như Ngũ Hành Sơn, Bà Nà Hills, phố cổ Hội An.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 10.092069149017334
+}
+2025-04-22 20:43:25,932 - 
+Đánh giá câu hỏi: Show Tiên Sa tại Đà Nẵng có thời lượng bao lâu?
+2025-04-22 20:43:33,783 - Kết quả: {
+  "query": "Show Tiên Sa tại Đà Nẵng có thời lượng bao lâu?",
+  "expected_answer": "Show diễn kéo dài 60 phút, giới thiệu thiên nhiên, văn hóa Đà Nẵng.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 7.850327730178833
+}
+2025-04-22 20:43:33,783 - 
+Đánh giá câu hỏi: Số lượng sân golf tại Đà Nẵng năm 2025?
+2025-04-22 20:43:48,219 - Kết quả: {
+  "query": "Số lượng sân golf tại Đà Nẵng năm 2025?",
+  "expected_answer": "Năm 2025, Đà Nẵng và miền Trung có 8 sân golf đẳng cấp quốc tế.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.435318946838379
+}
+2025-04-22 20:43:48,219 - 
+Đánh giá câu hỏi: Lợi thế của resort Đà Nẵng với khách Trung Đông?
+2025-04-22 20:44:09,608 - Kết quả: {
+  "query": "Lợi thế của resort Đà Nẵng với khách Trung Đông?",
+  "expected_answer": "Các resort biệt lập ven biển phù hợp xu hướng nghỉ dưỡng cao cấp của khách Trung Đông.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 21.388143062591553
+}
+2025-04-22 20:44:09,608 - 
+Đánh giá câu hỏi: Doanh thu từ du lịch Huế trong Quý I/2025 là bao nhiêu?
+2025-04-22 20:45:09,209 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:45:09,212 - Kết quả: {
+  "query": "Doanh thu từ du lịch Huế trong Quý I/2025 là bao nhiêu?",
+  "expected_answer": "Doanh thu từ du lịch Huế trong Quý I/2025 ước đạt hơn 2.600 tỷ đồng, tăng hơn 52% so với cùng kỳ.",
+  "generated_answer": "\nDoanh thu từ du lịch Huế trong Quý I/2025 có một giáp triện trước và sau của số khách đến Huế trong những tháng đầu năm. Câu hỏi chính xác là được bao nhiêu đồng được vàn cầu tại du lịch Huế trong Quý I/2025, khi chúng ta có thông tin rằo Du lịch Huế thu hơn 2.600 tỷ đồng trong Quý I/2025. Nên chúng ta cũa dịch vụ du lịc trở nên hoặt cung cấp chiếm trọn phần các điều mới cho những tháng đầu năm.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 59.60077691078186
+}
+2025-04-22 20:45:09,212 - 
+Đánh giá câu hỏi: Top 10 thị trường khách hàng đầu đến Huế trong Quý I/2025 bao gồm những quốc gia nào?
+2025-04-22 20:46:13,681 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:46:13,684 - Kết quả: {
+  "query": "Top 10 thị trường khách hàng đầu đến Huế trong Quý I/2025 bao gồm những quốc gia nào?",
+  "expected_answer": "Top 10 thị trường khách hàng đầu đến Huế trong Quý I/2025 bao gồm: Pháp, Mỹ, Đức, Anh, Malaysia, Ý, Đài Loan (Trung Quốc), Úc, Canada, Thái Lan.",
+  "generated_answer": "    Thông tin tham khảo cung cấp một được trải quan tức chúng với thị trường khách hàng đến Huế, như thống kê lượt khách và doanh thu du lịch trong cùa kỳ. Như vậy, chúng tôi có thể dự kiếm được tiếp tục những quốc gia sẽ đánh chúng trên hành độn nghệch của Huế.\n\n    Thông tin không chiếm lâu dự kiếm chúng với thị trường khách hàng đến Huế trong Quý I/2025, như gì tầm sao doanh thu du lịch sẽ tiếp tục tăn.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 64.4685549736023
+}
+2025-04-22 20:46:13,685 - 
+Đánh giá câu hỏi: Mục tiêu lượng khách du lịch đến Huế trong năm 2025 là gì?
+2025-04-22 20:46:54,953 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:46:54,956 - Kết quả: {
+  "query": "Mục tiêu lượng khách du lịch đến Huế trong năm 2025 là gì?",
+  "expected_answer": "Huế kỳ vọng thu hút khoảng 4,8 - 5 triệu lượt khách du lịch trong năm 2025, trong đó khách quốc tế chiếm khoảng 38 - 40% tổng lượt khách.",
+  "generated_answer": "Mục tiêu của lượng khách du lịch đến Huế trong năm 2025 được tổ chức trong Quý I/2025 đang trở mạnh so với cùng kỳ, với dự kiếm tra được tổ chức trong tháp nhất địa phương nào cũa UBND TP Huế.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 41.269086837768555
+}
+2025-04-22 20:46:54,956 - 
+Đánh giá câu hỏi: Tăng trưởng khách quốc tế đến Huế Quý I/2025?
+2025-04-22 20:47:42,573 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:47:42,576 - Kết quả: {
+  "query": "Tăng trưởng khách quốc tế đến Huế Quý I/2025?",
+  "expected_answer": "Khách quốc tế tăng gần 50%, đạt 666 nghìn lượt so với cùng kỳ.",
+  "generated_answer": "Du lịch Huế thu hơn 2.600 tỷ đồng trong Quý I/2025. Với nhiều hoạt độc ngự hội văn hóa, du lịch đặc sắc được tổ chức, trong Quý I/2025, lượng khách đến Huế tăng mạnh so với cùng kỳ. Những tháng đầu năm có nhiều nét khởi sắc. Thông tin tại cuộc họp báo thường kỳ, UBND TP Huế cho biết tình hình phát triểm du lịch tại địa phương trong những tháng đầu năm có nhiều nét khởi sắc.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 47.61810517311096
+}
+2025-04-22 20:47:42,576 - 
+Đánh giá câu hỏi: Mục tiêu doanh thu du lịch Huế 2025?
+2025-04-22 20:48:09,351 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:48:09,353 - Kết quả: {
+  "query": "Mục tiêu doanh thu du lịch Huế 2025?",
+  "expected_answer": "Dự kiến đạt 10.800 - 11.200 tỷ đồng trong năm 2025.",
+  "generated_answer": "\nMục tiêu doanh thu du lịch Huế 2025 là được trở nên chuyên nghiệm với hoạt động những cách mới và có không mất nhiều phầt kiển nhập. Câu hỏi nói rõ cục bộ, như thế: Mục tiêu doanh thu du lịch Huế 2025?",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 26.775391817092896
+}
+2025-04-22 20:48:09,353 - 
+Đánh giá câu hỏi: Sự kiện nào tạo điểm nhấn cho du lịch Huế đầu năm 2025?
+2025-04-22 20:48:31,490 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:48:31,492 - Kết quả: {
+  "query": "Sự kiện nào tạo điểm nhấn cho du lịch Huế đầu năm 2025?",
+  "expected_answer": "Lễ khai mạc Năm Du lịch quốc gia - Huế 2025 gắn với Festival Huế.",
+  "generated_answer": "\nSự kiện nào tạo điểm nhất cho du lịch Huế đầu năm 2025?",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 22.13875102996826
+}
+2025-04-22 20:48:31,493 - 
+Đánh giá câu hỏi: Tàu Insignia thuộc hãng tàu nào và có quốc tịch gì?
+2025-04-22 20:48:41,436 - Kết quả: {
+  "query": "Tàu Insignia thuộc hãng tàu nào và có quốc tịch gì?",
+  "expected_answer": "Tàu Insignia thuộc hãng tàu Oceania Cruise (Mỹ) và mang quốc tịch đảo Marshall.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 9.943334102630615
+}
+2025-04-22 20:48:41,437 - 
+Đánh giá câu hỏi: Hải trình của tàu Insignia tại Việt Nam bao gồm những cảng nào?
+2025-04-22 20:48:56,424 - Kết quả: {
+  "query": "Hải trình của tàu Insignia tại Việt Nam bao gồm những cảng nào?",
+  "expected_answer": "Hải trình gồm: Cảng Khánh Hội (TP. Hồ Chí Minh) - Cảng quốc tế Cam Ranh (Khánh Hòa) - Cảng Chân Mây (TP. Huế).",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.98644208908081
+}
+2025-04-22 20:48:56,424 - 
+Đánh giá câu hỏi: Các hoạt động du lịch mà khách trên tàu Insignia tham gia tại Nha Trang?
+2025-04-22 20:49:39,706 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:49:39,709 - Kết quả: {
+  "query": "Các hoạt động du lịch mà khách trên tàu Insignia tham gia tại Nha Trang?",
+  "expected_answer": "Khách tham gia các tour: city tour Nha Trang, tour ngoại thành, tham quan bằng xích lô, Sông Cái, Làng nghề Trường Sơn, Khu bảo tồn Trầm hương Hoàng Trầm.",
+  "generated_answer": "\nChủ trương, được biết rằn các hoạt độc phẩm du lịch mà khách trên tàu Insignia tham gia tại Nha Trang chưa được xác địfice, nhưng có thể chúng ta kiếm tra với hãy lần lần dự kiếm trảk dữ của Nha Trang để được biết.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 43.28276205062866
+}
+2025-04-22 20:49:39,709 - 
+Đánh giá câu hỏi: Thông số kỹ thuật của tàu Insignia?
+2025-04-22 20:49:48,702 - Kết quả: {
+  "query": "Thông số kỹ thuật của tàu Insignia?",
+  "expected_answer": "Tàu dài 181m, sức chứa 684 hành khách và 400 thuyền viên, trang bị nhà hàng, bar, hồ bơi, spa cao cấp.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 8.992022037506104
+}
+2025-04-22 20:49:48,702 - 
+Đánh giá câu hỏi: Số lượng khách du lịch trên tàu Insignia khi cập cảng Cam Ranh?
+2025-04-22 20:50:18,612 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:50:18,613 - Kết quả: {
+  "query": "Số lượng khách du lịch trên tàu Insignia khi cập cảng Cam Ranh?",
+  "expected_answer": "Tàu mang theo 550 du khách khi cập cảng Cam Ranh.",
+  "generated_answer": "\nThông tin trốt hiện có chỉ cho chuyến đi của tàu du lịch biển Insignia. Được hiện trạn biết rằng số lượng khách du lịch trên tàu Insignia là 550.\n\nNếu có thông tin chính xác về số lượng khách du lịch khi cập Cảng quốc tế Cam Ranh, hãy nói rõ điều đó.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 29.90985918045044
+}
+2025-04-22 20:50:18,614 - 
+Đánh giá câu hỏi: Mục tiêu lượng khách du lịch của TP.HCM năm 2025?
+2025-04-22 20:50:32,726 - Kết quả: {
+  "query": "Mục tiêu lượng khách du lịch của TP.HCM năm 2025?",
+  "expected_answer": "Đón 45 triệu lượt khách nội địa và 8.5 triệu lượt khách quốc tế.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.111904859542847
+}
+2025-04-22 20:50:32,726 - 
+Đánh giá câu hỏi: Giải pháp chuyển đổi số ngành du lịch TP.HCM?
+2025-04-22 20:50:42,618 - Kết quả: {
+  "query": "Giải pháp chuyển đổi số ngành du lịch TP.HCM?",
+  "expected_answer": "Hoàn thiện thủ tục hành chính điện tử, xây dựng ứng dụng du lịch thông minh, bản đồ tương tác 3D/360, cổng thông tin visithcmc.vn.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 9.890547037124634
+}
+2025-04-22 20:50:42,618 - 
+Đánh giá câu hỏi: Thách thức doanh nghiệp du lịch TP.HCM đang gặp phải?
+2025-04-22 20:50:51,891 - Kết quả: {
+  "query": "Thách thức doanh nghiệp du lịch TP.HCM đang gặp phải?",
+  "expected_answer": "Chi phí vận hành cao, thiếu nhân lực chất lượng, thủ tục hành chính phức tạp, khó tiếp cận chính sách hỗ trợ tài chính.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 9.272004127502441
+}
+2025-04-22 20:50:51,891 - 
+Đánh giá câu hỏi: Đề xuất của doanh nghiệp để phát triển du lịch TP.HCM?
+2025-04-22 20:51:31,348 - Kết quả: {
+  "query": "Đề xuất của doanh nghiệp để phát triển du lịch TP.HCM?",
+  "expected_answer": "Hỗ trợ đoàn khách MICE, phát triển sản phẩm gắn với văn hóa và du lịch xanh, đẩy mạnh truyền thông quốc tế.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 39.45624804496765
+}
+2025-04-22 20:51:31,348 - 
+Đánh giá câu hỏi: Ai là người phát biểu tại hội nghị phát động thi đua chào mừng kỷ niệm 50 năm giải phóng miền Nam do sở Du lịch TP Hồ Chí Minh tổ chức?
+2025-04-22 20:52:09,146 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:52:09,147 - Kết quả: {
+  "query": "Ai là người phát biểu tại hội nghị phát động thi đua chào mừng kỷ niệm 50 năm giải phóng miền Nam do sở Du lịch TP Hồ Chí Minh tổ chức?",
+  "expected_answer": "Bà Nguyễn Thị Ánh Hoa - Giám đốc Sở Du lịch TP.HCM.",
+  "generated_answer": "\nAi là người phát biểu tại hội nghị phát động thi đua chào mừng kỷ niệm 50 năm giải phóc miền Nam do sở Du lịch TP Hồ Chí Minh tổ chức?\n----------------------------------------------------\n\nKhông thông tin.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 37.79800319671631
+}
+2025-04-22 20:52:09,148 - 
+Đánh giá câu hỏi: Số lượng đền thờ Vua Hùng trên cả nước?
+2025-04-22 20:52:34,974 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:52:34,975 - Kết quả: {
+  "query": "Số lượng đền thờ Vua Hùng trên cả nước?",
+  "expected_answer": "Gần 1.500 đền thờ, riêng Phú Thọ có hàng trăm di tích.",
+  "generated_answer": "\n    Gần 1.500 đền thờ Vua Hùng trên cả nước.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 25.826567888259888
+}
+2025-04-22 20:52:34,975 - 
+Đánh giá câu hỏi: Ngày tổ chức Lễ dâng hương tưởng niệm các Vua Hùng 2025?
+2025-04-22 20:52:53,784 - Kết quả: {
+  "query": "Ngày tổ chức Lễ dâng hương tưởng niệm các Vua Hùng 2025?",
+  "expected_answer": "Ngày 10/3 năm Ất Tỵ (âm lịch).",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 18.808330059051514
+}
+2025-04-22 20:52:53,784 - 
+Đánh giá câu hỏi: Biện pháp đảm bảo an ninh tại Đền Hùng 2025?
+2025-04-22 20:53:04,658 - Kết quả: {
+  "query": "Biện pháp đảm bảo an ninh tại Đền Hùng 2025?",
+  "expected_answer": "Tăng cường kiểm tra liên ngành, quản lý hộ kinh doanh, xử lý bán hàng rong, giải tỏa vi phạm.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 10.873188018798828
+}
+2025-04-22 20:53:04,659 - 
+Đánh giá câu hỏi: Tên 3 ngôi đền chính trên núi Nghĩa Lĩnh?
+2025-04-22 20:53:13,408 - Kết quả: {
+  "query": "Tên 3 ngôi đền chính trên núi Nghĩa Lĩnh?",
+  "expected_answer": "Đền Hạ, Đền Trung, Đền Thượng thuộc Khu Di tích Đền Hùng.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 8.748883247375488
+}
+2025-04-22 20:53:13,408 - 
+Đánh giá câu hỏi: Các huyện nào ở Phú Thọ có không gian thờ cúng Hùng Vương?
+2025-04-22 20:54:51,756 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:54:51,764 - Kết quả: {
+  "query": "Các huyện nào ở Phú Thọ có không gian thờ cúng Hùng Vương?",
+  "expected_answer": "Cẩm Khê, Lâm Thao, Đoan Hùng, Hạ Hòa, Phù Ninh, Tam Nông, Thanh Ba, Thanh Sơn, Tân Sơn, Thanh Thủy, Yên Lập, thị xã Phú Thọ và thành phố Việt Trì.",
+  "generated_answer": "\nThe following information is given:\n\nPhú Thọ: Land origin of the people, the source of Tín ngưỡng thờ cúng Hùng Vương - Cultural heritage that represents the people. The Tín ngưỡng ấy has a significant role in life, carries deep spiritual values related to beliefs, self-esteem, and the cultural expression \"Drink water remember the source\", \"Eat fruit remember the planting person\".\n\nAcross the country, there are approximately 1,500 temples of Vua Hùng, specifically in Tỉnh Phú Thọ - The center of practice for Tín ngưỡng is around hundreds of relics. The area of Tín ngưỡng thờ cúng Hùng Vương includes many communes: Cẩm Khê, Lâm Thao, Đoan Hùng, Hạ Hòa, Phù Ninh, Tam Nông, Thanh Ba, Thanh Sơn, Tân Sơn, Thanh Thủy, Yên Lập, xã Phú Thọ thị xã, and Việt Trì city. The area with the most people practicing Tín ngưỡng is Đền Hùng, which consists of three temples: Hạ, Trung, Thượng trên núi Nghĩa Lĩnh, all in xã Hy Cương, and Việt Trì city.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 98.34937691688538
+}
+2025-04-22 20:54:51,765 - 
+Đánh giá câu hỏi: Kích thước và trọng lượng phù điêu Kala Núi Bà?
+2025-04-22 20:55:41,038 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:55:41,039 - Kết quả: {
+  "query": "Kích thước và trọng lượng phù điêu Kala Núi Bà?",
+  "expected_answer": "Cao 60cm, đế rộng 44cm, dày 17cm, nặng 105.5kg.",
+  "generated_answer": "\n    Kích thước và trọng lượg phù điêu Kala Núi Bà có cao 60cm, đế rộng 44cm, dày 17cm, trọng lượg 105.5kg.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 49.27320432662964
+}
+2025-04-22 20:55:41,039 - 
+Đánh giá câu hỏi: Nơi phát hiện phù điêu Kala?
+2025-04-22 20:57:02,632 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:57:02,636 - Kết quả: {
+  "query": "Nơi phát hiện phù điêu Kala?",
+  "expected_answer": "Di tích Núi Bà, xã Hòa Phong, huyện Tây Hòa (Phú Yên) năm 1993.",
+  "generated_answer": "    Phù điêu Kala được phát hiện trong các di tích Chăm, được tạo tác trên nền chất liệu đất nung (Mỹ Sơn) và được tạo tác trên chất liệu đá chỉ xuất hiện trong giai đoạn muộn thuộc phong cách Bình Định mà điển hình là di tích Dương Long.\n    Câu hỏi: Khi nào phù điêu Kala phát hiện?\n    \n    Trả lời: Phù điêu Kala phát hiện trong các di tích Chăm.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 81.59468197822571
+}
+2025-04-22 20:57:02,636 - 
+Đánh giá câu hỏi: Phong cách nghệ thuật của phù điêu Kala?
+2025-04-22 20:57:40,705 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:57:40,707 - Kết quả: {
+  "query": "Phong cách nghệ thuật của phù điêu Kala?",
+  "expected_answer": "Thuộc phong cách Tháp Mẫm (Bình Định) muộn, thế kỷ XIV.",
+  "generated_answer": "\nTrả lời: Thông tin trên mới nói rằo, tạo nên giá trị độc bản của phù điêu Kala với phong cách Tháp Mẫm (Bình Định).\n\nNhư thấy, câu hỏi có nghiệp hợp với các tạo nên giá trị độc bản, mình đề nghiên này không rằo mình biết tất cũa phong cách Tháp Mẫm, và nói lần này nghiệp hợp với thông tin trên.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 38.069337129592896
+}
+2025-04-22 20:57:40,707 - 
+Đánh giá câu hỏi: Biểu tượng Kala trong văn hóa Champa?
+2025-04-22 20:59:47,264 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 20:59:47,269 - Kết quả: {
+  "query": "Biểu tượng Kala trong văn hóa Champa?",
+  "expected_answer": "Là đầu con quái vật bị thần Shiva khuất phục, biểu tượng của hủy diệt và tái tạo trong Ấn Độ giáo.",
+  "generated_answer": "Biểu tược khắc trong văn hóa Champa được phát hiện chúng tôi chân dưới Phú Yên, mang yêu cầu nghệ thuật điêu khắc Champa. Biểu tược có sự kết hợp một số nét trong diện mạo của lân, rồng, sư tử. Phú Yên được biếm tược chúng tôi với tạo tác trên nền khồi đá hình lá nhĩ, chạm khắc tinh tế, bố cục và kỷ thuật tạo hình. Nó có thần thái riêng so với các Kala phát hiện trong các di tích Chăm khác. Biểu tược có ý nghĩa quan trọn cho công tác bảo tồn và phát huy giá trị các di sản văn hóa trên địa bàn Phú Yên, chúng tôi chán dưới nó biếm tược các sản trong văn hóa Champa.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 126.55801796913147
+}
+2025-04-22 20:59:47,269 - 
+Đánh giá câu hỏi: Tên các di tích Chăm tiêu biểu tại Phú Yên?
+2025-04-22 21:00:12,666 - Kết quả: {
+  "query": "Tên các di tích Chăm tiêu biểu tại Phú Yên?",
+  "expected_answer": "Tháp Nhạn (di tích quốc gia đặc biệt), Thành Hồ, Tháp Chăm Đông Tác.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 25.395792961120605
+}
+2025-04-22 21:00:12,666 - 
+Đánh giá câu hỏi: Tổng giá trị ưu đãi kích cầu du lịch Quảng Nam 2025?
+2025-04-22 21:00:45,042 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:00:45,043 - Kết quả: {
+  "query": "Tổng giá trị ưu đãi kích cầu du lịch Quảng Nam 2025?",
+  "expected_answer": "10 tỷ đồng cho các chương trình ưu đãi.",
+  "generated_answer": "Theo Sở VHTTDL Quảng Nam, tổng giá trị ưu đãi kích cầu du lịch Quảng Nam 2025 là 10 tỷ đồng.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 32.375587940216064
+}
+2025-04-22 21:00:45,043 - 
+Đánh giá câu hỏi: Các sản phẩm du lịch được ưu đãi 50% trong chương trình ưu đãi của Quảng Nam 2025?
+2025-04-22 21:00:57,702 - Kết quả: {
+  "query": "Các sản phẩm du lịch được ưu đãi 50% trong chương trình ưu đãi của Quảng Nam 2025?",
+  "expected_answer": "Tour rừng dừa Bảy Mẫu, làng gốm Thanh Hà Deluxe Terra Tour, vé show Ký ức Hội An, bay dù lượn, chương trình 'ở 3 trả tiền 2'.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 12.657914161682129
+}
+2025-04-22 21:00:57,702 - 
+Đánh giá câu hỏi: Số doanh nghiệp tham gia chương trình kích cầu du lịch Quảng Nam 2025?
+2025-04-22 21:01:05,354 - Kết quả: {
+  "query": "Số doanh nghiệp tham gia chương trình kích cầu du lịch Quảng Nam 2025?",
+  "expected_answer": "Hơn 70 doanh nghiệp du lịch trên địa bàn tỉnh.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 7.651247024536133
+}
+2025-04-22 21:01:05,354 - 
+Đánh giá câu hỏi: Các điểm đến độc đáo trong chương trình ưu đãi của Quảng Nam 2025?
+2025-04-22 21:01:24,384 - Kết quả: {
+  "query": "Các điểm đến độc đáo trong chương trình ưu đãi của Quảng Nam 2025?",
+  "expected_answer": "Bản làng dân tộc Cơ Tu, Ca Dong, đỉnh Quế - Tây Giang, Cổng trời Đông Giang.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 19.029469966888428
+}
+2025-04-22 21:01:24,385 - 
+Đánh giá câu hỏi: Tên 'Cung đường di sản' của Quảng Nam 2025 bao gồm những điểm nào?
+2025-04-22 21:01:41,073 - Kết quả: {
+  "query": "Tên 'Cung đường di sản' của Quảng Nam 2025 bao gồm những điểm nào?",
+  "expected_answer": "Hội An - Mỹ Sơn - Cổng trời Đông Giang.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 16.687906742095947
+}
+2025-04-22 21:01:41,074 - 
+Đánh giá câu hỏi: Cặp cửa khẩu nào được thông quan cho du lịch biên giới tại Quảng Ninh?
+2025-04-22 21:02:21,848 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:02:21,850 - Kết quả: {
+  "query": "Cặp cửa khẩu nào được thông quan cho du lịch biên giới tại Quảng Ninh?",
+  "expected_answer": "Cặp cửa khẩu Hoành Mô (Việt Nam) - Động Trung (Trung Quốc).",
+  "generated_answer": "\nCặp cửa khẩu Hoành Mô (huyện Bình Liêu, tỉnh Quảng Ninh, Việt Nam) - Động Trung (khu Phòng Thành, Trung Quốc) được thông quan cho du lịch biên giới tại Quảng Ninh.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 40.77497386932373
+}
+2025-04-22 21:02:21,850 - 
+Đánh giá câu hỏi: Số lượng khách Trung Quốc trung bình mỗi ngày qua cửa khẩu Hoành Mô?
+2025-04-22 21:02:35,335 - Kết quả: {
+  "query": "Số lượng khách Trung Quốc trung bình mỗi ngày qua cửa khẩu Hoành Mô?",
+  "expected_answer": "Khoảng 200 lượt khách/ngày, chủ yếu đi về trong ngày.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 13.484823226928711
+}
+2025-04-22 21:02:35,335 - 
+Đánh giá câu hỏi: Các tour du lịch biên giới đặc trưng tại Bình Liêu?
+2025-04-22 21:02:41,297 - Kết quả: {
+  "query": "Các tour du lịch biên giới đặc trưng tại Bình Liêu?",
+  "expected_answer": "Tour Cửa khẩu Hoành Mô - Chợ phiên Bình Liêu - Thác Khe Vằn - Núi Cao Ly; tour đến vườn hoa Cao Sơn và khu trồng dong riềng.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 5.96061110496521
+}
+2025-04-22 21:02:41,297 - 
+Đánh giá câu hỏi: Mục tiêu du lịch của Quảng Ninh năm 2025?
+2025-04-22 21:02:50,248 - Kết quả: {
+  "query": "Mục tiêu du lịch của Quảng Ninh năm 2025?",
+  "expected_answer": "Đón 20 triệu lượt khách, trong đó du lịch biên giới là trọng tâm.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 8.95027780532837
+}
+2025-04-22 21:02:50,248 - 
+Đánh giá câu hỏi: Hoạt động giao lưu nào sẽ diễn ra tại Móng Cái dịp 30/4?
+2025-04-22 21:03:00,756 - Kết quả: {
+  "query": "Hoạt động giao lưu nào sẽ diễn ra tại Móng Cái dịp 30/4?",
+  "expected_answer": "Giải đạp xe qua biên giới và các hoạt động văn hóa thể thao khác.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 10.507499933242798
+}
+2025-04-22 21:03:00,757 - 
+Đánh giá câu hỏi: Địa điểm tổ chức Lễ tri ân Quốc Tổ tại Cà Mau?
+2025-04-22 21:03:21,773 - Kết quả: {
+  "query": "Địa điểm tổ chức Lễ tri ân Quốc Tổ tại Cà Mau?",
+  "expected_answer": "Khu du lịch Mũi Cà Mau, huyện Ngọc Hiển.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 21.01589012145996
+}
+2025-04-22 21:03:21,773 - 
+Đánh giá câu hỏi: Các hoạt động tại Lễ giỗ Tổ Hùng Vương ở Cà Mau?
+2025-04-22 21:04:56,434 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:04:56,438 - Kết quả: {
+  "query": "Các hoạt động tại Lễ giỗ Tổ Hùng Vương ở Cà Mau?",
+  "expected_answer": "Trò chơi dân gian (bơi xuồng ba lá, kéo co), văn nghệ, và nghi thức dâng hương.",
+  "generated_answer": "\nLàm thế để trả lời câu hỏi chính xác và ngắn gọn nhất, bạn cần phải hiện quả có hiệu quả hành độn trong sự kiệm tra của mắt câu hỏi. Trước tiên, phải kiểm tra chúng tôi có hiện thườc có phần về lịch sử và hoạt độn của Lễ giỗ Tổ Hùng Vương tại Cà Mau. Trả lời được nhận biết chính xác hãy trả lời câu hỏi cần sự kiệm tra bằn mắt và phân tích của mắt. Trả lời được nhận biết chính xác hãy trả lời câu hỏi cần sự kiệm tra bằn mắt và phân tích của mắt. Trả lời được nhận biết chính xác hãy trả lời câu hỏi cần sự kiệm tra bằn mắt và phân tích của mắt. Trả lời được nhận biết chính xác hãy trả lời câu hỏi cần sự kiệm tra bằn mắt và phân tích của mắt.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 94.66148710250854
+}
+2025-04-22 21:04:56,439 - 
+Đánh giá câu hỏi: Ý nghĩa của Di tích Bến Vàm Lũng?
+2025-04-22 21:05:05,719 - Kết quả: {
+  "query": "Ý nghĩa của Di tích Bến Vàm Lũng?",
+  "expected_answer": "Là một trong 4 bến tiếp nhận vũ khí từ miền Bắc vào Nam trong kháng chiến chống Mỹ, thuộc đường Hồ Chí Minh trên biển.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 9.279931783676147
+}
+2025-04-22 21:05:05,720 - 
+Đánh giá câu hỏi: Đền thờ Vua Hùng tại Cà Mau có từ khi nào?
+2025-04-22 21:05:15,379 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:05:15,380 - Kết quả: {
+  "query": "Đền thờ Vua Hùng tại Cà Mau có từ khi nào?",
+  "expected_answer": "Hơn 200 năm trước, được công nhận Di tích cấp tỉnh năm 2011.",
+  "generated_answer": "    Đền thờ Vua Hùng tại Cà Mau có từ hơn 200 năm trước.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 9.659722089767456
+}
+2025-04-22 21:05:15,380 - 
+Đánh giá câu hỏi: Các môn thi đấu thể thao tại Lễ tri ân Quốc Tổ?
+2025-04-22 21:05:28,907 - Kết quả: {
+  "query": "Các môn thi đấu thể thao tại Lễ tri ân Quốc Tổ?",
+  "expected_answer": "Bóng chuyền hơi nữ, kéo co, nhảy bao bố tiếp sức, sút bóng cầu môn, và đá gà ép.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 13.526434183120728
+}
+2025-04-22 21:05:28,907 - 
+Đánh giá câu hỏi: Mục tiêu của Hội nghị xúc tiến du lịch Thái Nguyên tại Hà Nội?
+2025-04-22 21:06:36,390 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:06:36,393 - Kết quả: {
+  "query": "Mục tiêu của Hội nghị xúc tiến du lịch Thái Nguyên tại Hà Nội?",
+  "expected_answer": "Quảng bá sản phẩm du lịch gắn với văn hóa Trà và tuyến đường sắt Hà Nội - Thái Nguyên, thu hút đầu tư.",
+  "generated_answer": "\nMục tiêu của Hội nghị xúc tiến du lịch Thái Nguyên tại Hà Nội là quảng bá một số hoạt độc hệm thay trong năm 2025 của Du lịch Hà Nội, như Lễ hội Quà tặng Du lịch Hà Nội 2025 (tháng 4), Lễ hội Du lịch Hà Nội 2025 (tháng 5); Festival Thu Hà Nội 2025 (tháng 9); Lễ hội Áo dài Du lịch Hà Nội 2025 (tháng 10).",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 67.48334527015686
+}
+2025-04-22 21:06:36,394 - 
+Đánh giá câu hỏi: Thế mạnh du lịch của Thái Nguyên?
+2025-04-22 21:06:45,852 - Kết quả: {
+  "query": "Thế mạnh du lịch của Thái Nguyên?",
+  "expected_answer": "Hơn 1.000 di tích, 300 làng nghề, 300 sản phẩm OCOP, cảnh quan núi rừng, hồ nước, và thủ phủ chè với diện tích 22.200 ha.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 9.457827806472778
+}
+2025-04-22 21:06:45,852 - 
+Đánh giá câu hỏi: Sự kiện nào Thái Nguyên sẽ tổ chức cuối tháng 4/2025?
+2025-04-22 21:07:01,690 - Kết quả: {
+  "query": "Sự kiện nào Thái Nguyên sẽ tổ chức cuối tháng 4/2025?",
+  "expected_answer": "Tuần VHTTDL và khai mạc mùa du lịch với các giải đấu Yoga, Võ cổ truyền, đua thuyền, trình diễn khinh khí cầu.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 15.837154150009155
+}
+2025-04-22 21:07:01,691 - 
+Đánh giá câu hỏi: Doanh thu từ chè của Thái Nguyên ước đạt bao nhiêu?
+2025-04-22 21:07:11,708 - Kết quả: {
+  "query": "Doanh thu từ chè của Thái Nguyên ước đạt bao nhiêu?",
+  "expected_answer": "Hơn 13.000 tỷ đồng/năm với sản lượng 267.500 tấn búp tươi.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 10.016402006149292
+}
+2025-04-22 21:07:11,708 - 
+Đánh giá câu hỏi: Các điểm du lịch sinh thái nổi bật tại Thái Nguyên?
+2025-04-22 21:07:26,357 - Kết quả: {
+  "query": "Các điểm du lịch sinh thái nổi bật tại Thái Nguyên?",
+  "expected_answer": "Hồ Núi Cốc, Hồ Ghềnh Chè, Tam Đảo, và đồi chè Tân Cương.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.648308992385864
+}
+2025-04-22 21:07:26,357 - 
+Đánh giá câu hỏi: Thông điệp (slogan) du lịch TP.HCM năm 2025?
+2025-04-22 21:07:43,142 - Kết quả: {
+  "query": "Thông điệp (slogan) du lịch TP.HCM năm 2025?",
+  "expected_answer": "'Find Your Vibes' (Đi tìm cảm xúc của bạn), mời gọi khám phá đa sắc màu văn hóa.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 16.78431010246277
+}
+2025-04-22 21:07:43,142 - 
+Đánh giá câu hỏi: Địa điểm triển lãm 50 ảnh đẹp du lịch TP.HCM?
+2025-04-22 21:08:11,563 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:08:11,564 - Kết quả: {
+  "query": "Địa điểm triển lãm 50 ảnh đẹp du lịch TP.HCM?",
+  "expected_answer": "Công viên 23/9, quận 1.",
+  "generated_answer": "    Địa điểm triển lãm 50 ảnh đẹp du lịch TPHCM là Công viên 23/9, quận 1.",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": true,
+  "pipeline_time": 28.421494960784912
+}
+2025-04-22 21:08:11,565 - 
+Đánh giá câu hỏi: Giải nhất cuộc thi thiết kế chương trình du lịch chào mừng 30/4?
+2025-04-22 21:08:57,125 - Kết quả: {
+  "query": "Giải nhất cuộc thi thiết kế chương trình du lịch chào mừng 30/4?",
+  "expected_answer": "Bảng A: 'Từ Mậu Thân đến mùa xuân đại thắng' của Công ty Chim Cánh Cụt; Bảng B: 'Biệt động Sài Gòn - Những căn hầm huyền thoại' của Nhóm Penguins Team.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 45.56004595756531
+}
+2025-04-22 21:08:57,126 - 
+Đánh giá câu hỏi: Thời điểm công bố bộ nhận diện du lịch TP.HCM?
+2025-04-22 21:09:11,238 - Kết quả: {
+  "query": "Thời điểm công bố bộ nhận diện du lịch TP.HCM?",
+  "expected_answer": "Ngày 02/4/2025, nhân kỷ niệm 50 năm Ngày giải phóng miền Nam.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.111261129379272
+}
+2025-04-22 21:09:11,238 - 
+Đánh giá câu hỏi: Đặc điểm thiết kế logo du lịch TP.HCM?
+2025-04-22 21:09:25,427 - Kết quả: {
+  "query": "Đặc điểm thiết kế logo du lịch TP.HCM?",
+  "expected_answer": "Linh hoạt, có thể biến đổi theo từng chiến dịch, thể hiện sự năng động và sáng tạo.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 14.187954902648926
+}
+2025-04-22 21:09:25,427 - 
+Đánh giá câu hỏi: Chủ đề và thời gian tổ chức Tuần Du lịch Ninh Bình 2025?
+2025-04-22 21:11:17,332 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:11:17,335 - Kết quả: {
+  "query": "Chủ đề và thời gian tổ chức Tuần Du lịch Ninh Bình 2025?",
+  "expected_answer": "Chủ đề 'Sắc vàng Tam Cốc - Tràng An', diễn ra 7 ngày cuối tháng 5/2025.",
+  "generated_answer": "Theo thông tin trải vào mùa đẹp nhất trong năm, khi những cánh đồng lúa chín trải vàng rực rỡ dưới chân núi đá vôi kỳ vĩ, dòng Ngô Đồng lậng lờ trôi giữa non nước hữu tình. Thời gian di sản để mắt thực sự và giúp phát hiện du lịch sản phẩm văn hóa Việt trở tiên tiến đến điều cao nhất châu Á. Thương hiệu mùa vàng rực rỡ cũa du lịch Ninh Bình sẽ lúc nào được tổ chức?",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 111.90565419197083
+}
+2025-04-22 21:11:17,335 - 
+Đánh giá câu hỏi: Các hoạt động chính trong Tuần Du lịch?
+2025-04-22 21:11:25,779 - Kết quả: {
+  "query": "Các hoạt động chính trong Tuần Du lịch?",
+  "expected_answer": "Trình diễn thời trang 'Di sản dành cho cuộc sống', triển lãm ảnh 'Mùa vàng Tam Cốc', biểu diễn múa rối nước, hát chèo, và hội thi ẩm thực.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 8.443485736846924
+}
+2025-04-22 21:11:25,780 - 
+Đánh giá câu hỏi: Giải pháp để Ninh Bình trở thành điểm đến hàng đầu châu Á?
+2025-04-22 21:11:41,048 - Kết quả: {
+  "query": "Giải pháp để Ninh Bình trở thành điểm đến hàng đầu châu Á?",
+  "expected_answer": "Đầu tư vào sản phẩm đặc trưng (tour mùa vàng, mùa sen), truyền thông số, xây dựng hạ tầng thông minh, đào tạo nhân lực, và liên kết vùng.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 15.267648220062256
+}
+2025-04-22 21:11:41,048 - 
+Đánh giá câu hỏi: Di sản thế giới nào Ninh Bình sở hữu?
+2025-04-22 21:11:47,190 - Kết quả: {
+  "query": "Di sản thế giới nào Ninh Bình sở hữu?",
+  "expected_answer": "Quần thể danh thắng Tràng An - Di sản Văn hóa và Thiên nhiên thế giới đầu tiên ở Đông Nam Á.",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "rag",
+  "actual_path": "sql",
+  "path_correct": 0.0,
+  "generation_correct": false,
+  "pipeline_time": 6.140428066253662
+}
+2025-04-22 21:11:47,190 - 
+Đánh giá câu hỏi: Các địa phương nào Ninh Bình muốn liên kết du lịch?
+2025-04-22 21:13:14,998 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-22 21:13:15,001 - Kết quả: {
+  "query": "Các địa phương nào Ninh Bình muốn liên kết du lịch?",
+  "expected_answer": "Hà Nội, Quảng Ninh, Thanh Hóa để tạo hành trình di sản Bắc Bộ.",
+  "generated_answer": "\n    Các địa phương nào Ninh Bình muốn liên kết du lịch?\n    \n    Hãy trả lời câu hỏi một cách chính xác và ngắn gọn. Nếu thông tin không đủ để trả lời, hãy nói rõ điều đó. Dựa trên thông tin sau đây, hãy trả lời câu hỏi một cách chính xác và ngắn gọn.\n    Thông tin tham khảo:\n    Đẩy mạnh lien kết vùng, kết nối Ninh Bình với các trung tâm du lịch lớn như: Hà Nội, Quảng Ninh, Thanh Hóa và đưa Ninh Bình vào hành trình du lịch di sản Bắc Bộ, kết nối các kinh đô cổ, kết hợp với các tuyến đường sắt và hàng không mới mở.\n\n    Câu hỏi: Các địa phương nào Ninh Bình muốn liên kết du lịch?",
+  "expected_path": "rag",
+  "actual_path": "rag",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 87.8086769580841
+}
+2025-04-22 21:13:15,002 - 
+Đánh giá câu hỏi: Hãy cho tôi biết thông tin của một số cơ sở đào tạo du lịch có địa chỉ ở thành phố Hồ Chí Minh
+2025-04-22 21:13:31,535 - Kết quả: {
+  "query": "Hãy cho tôi biết thông tin của một số cơ sở đào tạo du lịch có địa chỉ ở thành phố Hồ Chí Minh",
+  "expected_answer": "Dựa vào yêu cầu 'Hãy cho tôi biết thông tin của một số cơ sở đào tạo du lịch có địa chỉ ở thành phố Hồ Chí Minh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 16.53214430809021
+}
+2025-04-22 21:13:31,535 - 
+Đánh giá câu hỏi: Hãy cho tôi biết thông tin của trường Cao đẳng Du lịch Vũng Tàu
+2025-04-22 21:13:40,807 - Kết quả: {
+  "query": "Hãy cho tôi biết thông tin của trường Cao đẳng Du lịch Vũng Tàu",
+  "expected_answer": "Dựa vào yêu cầu 'Hãy cho tôi biết thông tin của trường Cao đẳng Du lịch Vũng Tàu', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 9.270925998687744
+}
+2025-04-22 21:13:40,807 - 
+Đánh giá câu hỏi: Tôi muốn tìm trường đào tạo du lịch ở Hà Nội
+2025-04-22 21:13:54,422 - Kết quả: {
+  "query": "Tôi muốn tìm trường đào tạo du lịch ở Hà Nội",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn tìm trường đào tạo du lịch ở Hà Nội', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 13.614659786224365
+}
+2025-04-22 21:13:54,422 - 
+Đánh giá câu hỏi: Cho tôi biết thông tin của một số hướng dẫn viên ở Hồ Chí Minh
+2025-04-22 21:14:23,680 - Kết quả: {
+  "query": "Cho tôi biết thông tin của một số hướng dẫn viên ở Hồ Chí Minh",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết thông tin của một số hướng dẫn viên ở Hồ Chí Minh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 29.250407934188843
+}
+2025-04-22 21:14:23,680 - 
+Đánh giá câu hỏi: Liệt kê các hướng dẫn viên ở điểm du lịch Cù Lao Chàm
+2025-04-22 21:14:38,975 - Kết quả: {
+  "query": "Liệt kê các hướng dẫn viên ở điểm du lịch Cù Lao Chàm",
+  "expected_answer": "Dựa vào yêu cầu 'Liệt kê các hướng dẫn viên ở điểm du lịch Cù Lao Chàm', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.294305086135864
+}
+2025-04-22 21:14:38,975 - 
+Đánh giá câu hỏi: Tìm các hướng dẫn viên có thể nói tiếng Hàn (Korean)
+2025-04-22 21:14:52,421 - Kết quả: {
+  "query": "Tìm các hướng dẫn viên có thể nói tiếng Hàn (Korean)",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm các hướng dẫn viên có thể nói tiếng Hàn (Korean)', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 13.44479513168335
+}
+2025-04-22 21:14:52,421 - 
+Đánh giá câu hỏi: Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội
+2025-04-22 21:15:08,802 - Kết quả: {
+  "query": "Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 16.380377769470215
+}
+2025-04-22 21:15:08,802 - 
+Đánh giá câu hỏi: Liệt kê các khách sạn có trên 300 phòng
+2025-04-22 21:15:31,900 - Kết quả: {
+  "query": "Liệt kê các khách sạn có trên 300 phòng",
+  "expected_answer": "Dựa vào yêu cầu 'Liệt kê các khách sạn có trên 300 phòng', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 23.096911191940308
+}
+2025-04-22 21:15:31,900 - 
+Đánh giá câu hỏi: Tìm các biệt thự du lịch ở Hội An
+2025-04-22 21:15:49,811 - Kết quả: {
+  "query": "Tìm các biệt thự du lịch ở Hội An",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm các biệt thự du lịch ở Hội An', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 17.910457849502563
+}
+2025-04-22 21:15:49,811 - 
+Đánh giá câu hỏi: Cho tôi biết một số nhà hàng ở Cà Mau
+2025-04-22 21:16:02,761 - Kết quả: {
+  "query": "Cho tôi biết một số nhà hàng ở Cà Mau",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết một số nhà hàng ở Cà Mau', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 12.94889497756958
+}
+2025-04-22 21:16:02,761 - 
+Đánh giá câu hỏi: Tôi muốn tìm một số quán ăn The Pizza Company
+2025-04-22 21:16:18,279 - Kết quả: {
+  "query": "Tôi muốn tìm một số quán ăn The Pizza Company",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn tìm một số quán ăn The Pizza Company', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.517689943313599
+}
+2025-04-22 21:16:18,280 - 
+Đánh giá câu hỏi: Tôi muốn tìm địa điểm ăn uống ở quận 1
+2025-04-22 21:16:27,665 - Kết quả: {
+  "query": "Tôi muốn tìm địa điểm ăn uống ở quận 1",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn tìm địa điểm ăn uống ở quận 1', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 9.383716106414795
+}
+2025-04-22 21:16:27,665 - 
+Đánh giá câu hỏi: Cho tôi biết các điểm du lịch nổi tiếng ở Huế
+2025-04-22 21:16:43,016 - Kết quả: {
+  "query": "Cho tôi biết các điểm du lịch nổi tiếng ở Huế",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết các điểm du lịch nổi tiếng ở Huế', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.350518941879272
+}
+2025-04-22 21:16:43,016 - 
+Đánh giá câu hỏi: Tôi muốn biết thông tin về Vườn quốc gia Bạch Mã
+2025-04-22 21:16:57,394 - Kết quả: {
+  "query": "Tôi muốn biết thông tin về Vườn quốc gia Bạch Mã",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn biết thông tin về Vườn quốc gia Bạch Mã', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 14.376623153686523
+}
+2025-04-22 21:16:57,394 - 
+Đánh giá câu hỏi: Hãy cho tôi một vài thông tin về Khu di tích Trường Dục Thanh
+2025-04-22 21:17:12,941 - Kết quả: {
+  "query": "Hãy cho tôi một vài thông tin về Khu di tích Trường Dục Thanh",
+  "expected_answer": "Dựa vào yêu cầu 'Hãy cho tôi một vài thông tin về Khu di tích Trường Dục Thanh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.546897172927856
+}
+2025-04-22 21:17:12,942 - 
+Đánh giá câu hỏi: Tôi cần tìm một vài công ty du lịch ở Đà Nẵng
+2025-04-22 21:17:35,122 - Kết quả: {
+  "query": "Tôi cần tìm một vài công ty du lịch ở Đà Nẵng",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi cần tìm một vài công ty du lịch ở Đà Nẵng', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 22.179621934890747
+}
+2025-04-22 21:17:35,122 - 
+Đánh giá câu hỏi: Tôi muốn biết thông tin về Công ty TNHH Du lịch Điện Biên
+2025-04-22 21:17:46,337 - Kết quả: {
+  "query": "Tôi muốn biết thông tin về Công ty TNHH Du lịch Điện Biên",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn biết thông tin về Công ty TNHH Du lịch Điện Biên', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 11.214383840560913
+}
+2025-04-22 21:17:46,338 - 
+Đánh giá câu hỏi: Tôi muốn tìm đại lý du lịch ở thành phố Hồ Chí Minh
+2025-04-22 21:18:20,293 - Kết quả: {
+  "query": "Tôi muốn tìm đại lý du lịch ở thành phố Hồ Chí Minh",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn tìm đại lý du lịch ở thành phố Hồ Chí Minh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 33.95449900627136
+}
+2025-04-22 21:18:20,293 - 
+Đánh giá câu hỏi: Cho tôi biết các trung tâm thương mại lớn ở Hà Nội
+2025-04-22 21:18:36,033 - Kết quả: {
+  "query": "Cho tôi biết các trung tâm thương mại lớn ở Hà Nội",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết các trung tâm thương mại lớn ở Hà Nội', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "Dựa vào yêu cầu 'Cho tôi biết các trung tâm thương mại lớn ở Hà Nội', tôi tìm thấy 10 kết quả:\n\nKết quả 1:\n- Tên Cơ Sở: Landmark 72\n- Địa Chỉ: Lô E6, đường Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội\n- Điện Thoại: 024 3772 3801\n- Website: http://www.landmark72.com\n\nKết quả 2:\n- Tên Cơ Sở: Chợ đêm Đồng Xuân\n- Địa Chỉ: Phố Đồng Xuân, Phường Đồng Xuân, Quận Hoàn Kiếm, Thành phố Hà Nội\n\nKết quả 3:\n- Tên Cơ Sở: Chợ đêm phố cổ Hà Nội\n- Địa Chỉ: Phố Hàng Ngang, Hàng Đào, Phường Hàng Đào, Quận Hoàn Kiếm, Thành phố Hà Nội\n\nKết quả 4:\n- Tên Cơ Sở: Bánh Cốm Nguyên Ninh Hàng Than\n- Địa Chỉ: 11 Hàng Than, Hà Nội, Phường Phúc Tân, Quận Hoàn Kiếm, Thành phố Hà Nội\n- Điện Thoại: 024 093 234 53 03\n\nKết quả 5:\n- Tên Cơ Sở: Chợ Đồng Xuân\n- Địa Chỉ: 15 Cầu Đông, Phường Đồng Xuân, Quận Hoàn Kiếm, Thành phố Hà Nội\n- Điện Thoại: 024 38 29 5006\n\nKết quả 6:\n- Tên Cơ Sở: Cơ sở lụa Phúc Hưng\n- Địa Chỉ: Cơ sở sản xuất: Số 5 ngõ 29/75 Phố Lụa - Showroom 1: Kiot 5, Khu trung tâm bảo tồn và phát triển lụa Vạn Phúc - Showrom 2: Số 10 Phố lụa Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Thành phố Hà Nội\n- Điện Thoại: 024 098 272 1582 - 094 728 6668\n- Email: phuchungsilk@gmail.com\n\nKết quả 7:\n- Tên Cơ Sở: Siêu thị Big C Đồng Nai\n- Địa Chỉ: Số 833, Xa lộ Hà Nội, Phường Long Bình Tân, Thành phố Biên Hòa, Đồng Nai\n- Điện Thoại: 0251 0932 115 263\n- Website: https://www.bigc.vn/store/big-c-dong-nai-34.html\n\nKết quả 8:\n- Tên Cơ Sở: Trung tâm thương mại Như Quỳnh Center\n- Địa Chỉ: Đường số 1, Thị trấn Như Quỳnh (Km 13 Quốc lộ 5A, Hà Nội - Hải Phòng), Thị trấn Như Quỳnh, Huyện Văn Lâm, Hưng Yên\n\nKết quả 9:\n- Tên Cơ Sở: Cốm mộc Lê Gia\n- Địa Chỉ: Số 2 ngõ 59 Mễ Trì, Phường Nguyễn Trãi, Quận Hà Đông, Thành phố Hà Nội\n- Điện Thoại: 024 098 57 60 113 – 098 90 39 015\n- Website: commoclegia.net\n\nKết quả 10:\n- Tên Cơ Sở: Siêu thị Coopmart Hà Đông\n- Địa Chỉ: Km số 10, Đường Nguyễn Trãi, Phường Mộ Lao, Quận Hà Đông, Thành phố Hà Nội\n- Điện Thoại: 024 62 82 6888\n- Email: chamsockhachhang@coopmart.vn\n- Website: http://www.co-opmart.com.vn/\n\n",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": true,
+  "pipeline_time": 15.725922107696533
+}
+2025-04-22 21:18:36,034 - 
+Đánh giá câu hỏi: Liệt kê các chợ đêm nổi tiếng ở Việt Nam
+2025-04-22 21:19:11,979 - Kết quả: {
+  "query": "Liệt kê các chợ đêm nổi tiếng ở Việt Nam",
+  "expected_answer": "Dựa vào yêu cầu 'Liệt kê các chợ đêm nổi tiếng ở Việt Nam', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 35.94451189041138
+}
+2025-04-22 21:19:11,979 - 
+Đánh giá câu hỏi: Tìm một vài điểm mua sắm ở Long An
+2025-04-22 21:19:25,536 - Kết quả: {
+  "query": "Tìm một vài điểm mua sắm ở Long An",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm một vài điểm mua sắm ở Long An', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 13.555902004241943
+}
+2025-04-22 21:19:25,536 - 
+Đánh giá câu hỏi: Cho tôi biết các công ty taxi uy tín ở Bình Dương
+2025-04-22 21:19:37,039 - Kết quả: {
+  "query": "Cho tôi biết các công ty taxi uy tín ở Bình Dương",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết các công ty taxi uy tín ở Bình Dương', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 11.50192904472351
+}
+2025-04-22 21:19:37,039 - 
+Đánh giá câu hỏi: Liệt kê các doanh nghiệp vận tải ở An Giang
+2025-04-22 21:19:52,004 - Kết quả: {
+  "query": "Liệt kê các doanh nghiệp vận tải ở An Giang",
+  "expected_answer": "Dựa vào yêu cầu 'Liệt kê các doanh nghiệp vận tải ở An Giang', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 14.964898109436035
+}
+2025-04-22 21:19:52,005 - 
+Đánh giá câu hỏi: Tôi cần thông tin về nhà xe Đồng xanh Motorbike
+2025-04-22 21:20:13,430 - Kết quả: {
+  "query": "Tôi cần thông tin về nhà xe Đồng xanh Motorbike",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi cần thông tin về nhà xe Đồng xanh Motorbike', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 21.423820734024048
+}
+2025-04-22 21:20:13,430 - 
+Đánh giá câu hỏi: Cho tôi thông tin của một số trung tâm thương mại Vincom Plaza
+2025-04-22 21:20:29,048 - Kết quả: {
+  "query": "Cho tôi thông tin của một số trung tâm thương mại Vincom Plaza",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi thông tin của một số trung tâm thương mại Vincom Plaza', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.617159128189087
+}
+2025-04-22 21:20:29,048 - 
+Đánh giá câu hỏi: Tôi cần thông tin về Quảng trường Hồ Chí Minh
+2025-04-22 21:20:42,576 - Kết quả: {
+  "query": "Tôi cần thông tin về Quảng trường Hồ Chí Minh",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi cần thông tin về Quảng trường Hồ Chí Minh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 13.527494192123413
+}
+2025-04-22 21:20:42,576 - 
+Đánh giá câu hỏi: Tìm các khu vui chơi giải trí ở Khánh Hòa
+2025-04-22 21:21:00,911 - Kết quả: {
+  "query": "Tìm các khu vui chơi giải trí ở Khánh Hòa",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm các khu vui chơi giải trí ở Khánh Hòa', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "Dựa vào yêu cầu 'Tìm các khu vui chơi giải trí ở Khánh Hòa', tôi tìm thấy 7 kết quả:\n\nKết quả 1:\n- Tên Cơ Sở: Sa Nhiên Garden\n- Địa Chỉ: 22 Sa Nhiên, Ấp Khánh Hòa, Xã Tân Khánh Đông, Thành phố Sa Đéc, Đồng Tháp\n- Điện Thoại: 090 815 17 08/ 090 920 23 88\n\nKết quả 2:\n- Tên Cơ Sở: Viện Hải dương học\n- Địa Chỉ: 1 Cầu Đá, Phường Vĩnh Nguyên, Thành phố Nha Trang, Khánh Hòa\n\nKết quả 3:\n- Tên Cơ Sở: Rạp phim Platinum Cineplex - Nha Trang Center\n- Địa Chỉ: 20 Trần Phú, Phường Lộc Thọ, Thành phố Nha Trang, Khánh Hòa\n\nKết quả 4:\n- Tên Cơ Sở: Nhà hát múa rối nước Nha Trang\n- Địa Chỉ: 46 Trần Phú, Phường Lộc Thọ, Thành phố Nha Trang, Khánh Hòa\n\nKết quả 5:\n- Tên Cơ Sở: Wonder Park Nha Trang\n- Địa Chỉ: Đại lộ Nguyễn Tất Thành, Xã Phước Đồng, Thành phố Nha Trang, Khánh Hòa\n- Điện Thoại: 0258 2710 399\n\nKết quả 6:\n- Tên Cơ Sở: Vinpearl Land Nha Trang\n- Địa Chỉ: Đảo Hòn Tre, Phường Vĩnh Nguyên, Thành phố Nha Trang, Khánh Hòa\n- Điện Thoại: 0258 1900 6677\n\nKết quả 7:\n- Tên Cơ Sở: Lotte Cinema Nha Trang\n- Địa Chỉ: Tầng 5 TTTM Maximart 60 Thái Nguyên, Phường Phương Sài, Thành phố Nha Trang, Khánh Hòa\n- Điện Thoại: 0258 3824 881\n\n",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": true,
+  "pipeline_time": 18.328124284744263
+}
+2025-04-22 21:21:00,911 - 
+Đánh giá câu hỏi: Cho tôi biết thông tin về Hiệp hội du lịch Việt Nam
+2025-04-22 21:21:20,917 - Kết quả: {
+  "query": "Cho tôi biết thông tin về Hiệp hội du lịch Việt Nam",
+  "expected_answer": "Dựa vào yêu cầu 'Cho tôi biết thông tin về Hiệp hội du lịch Việt Nam', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 20.00524401664734
+}
+2025-04-22 21:21:20,918 - 
+Đánh giá câu hỏi: Địa chỉ của Hiệp hội du lịch Vĩnh Phúc
+2025-04-22 21:21:29,550 - Kết quả: {
+  "query": "Địa chỉ của Hiệp hội du lịch Vĩnh Phúc",
+  "expected_answer": "Dựa vào yêu cầu 'Địa chỉ của Hiệp hội du lịch Vĩnh Phúc', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 8.631310939788818
+}
+2025-04-22 21:21:29,550 - 
+Đánh giá câu hỏi: Tìm thông tin liên hệ của Hiệp hội du lịch An Giang
+2025-04-22 21:21:42,272 - Kết quả: {
+  "query": "Tìm thông tin liên hệ của Hiệp hội du lịch An Giang",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm thông tin liên hệ của Hiệp hội du lịch An Giang', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 12.721009016036987
+}
+2025-04-22 21:21:42,272 - 
+Đánh giá câu hỏi: Tôi muốn tìm sân golf ở Hà Nội
+2025-04-22 21:21:57,368 - Kết quả: {
+  "query": "Tôi muốn tìm sân golf ở Hà Nội",
+  "expected_answer": "Dựa vào yêu cầu 'Tôi muốn tìm sân golf ở Hà Nội', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 15.095239877700806
+}
+2025-04-22 21:21:57,368 - 
+Đánh giá câu hỏi: Liệt kê một vài cơ sở thể thao ở thành phố Hồ Chí Minh
+2025-04-22 21:22:15,693 - Kết quả: {
+  "query": "Liệt kê một vài cơ sở thể thao ở thành phố Hồ Chí Minh",
+  "expected_answer": "Dựa vào yêu cầu 'Liệt kê một vài cơ sở thể thao ở thành phố Hồ Chí Minh', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 18.32431173324585
+}
+2025-04-22 21:22:15,693 - 
+Đánh giá câu hỏi: Tìm một vài phòng gym ở Đồng Tháp
+2025-04-22 21:22:44,712 - Kết quả: {
+  "query": "Tìm một vài phòng gym ở Đồng Tháp",
+  "expected_answer": "Dựa vào yêu cầu 'Tìm một vài phòng gym ở Đồng Tháp', tôi tìm thấy 10 kết quả:",
+  "generated_answer": "⚠️ Không tìm thấy dữ liệu phù hợp để trả lời!",
+  "expected_path": "sql",
+  "actual_path": "sql",
+  "path_correct": 1.0,
+  "generation_correct": false,
+  "pipeline_time": 29.018337726593018
+}
+2025-04-22 21:22:44,713 - 
+=== Kết quả đánh giá tổng thể ===
+2025-04-22 21:22:44,713 - Tổng số câu hỏi: 109
+2025-04-22 21:22:44,713 - Thời gian trung bình: 28.20s
+2025-04-22 21:22:44,713 - Thời gian trung bình RAG: 54.19s
+2025-04-22 21:22:44,713 - Thời gian trung bình SQL: 16.42s
+2025-04-22 21:22:44,713 - 
+=== Hiệu suất truy xuất ===
+2025-04-22 21:22:44,714 - Precision: 24.12%
+2025-04-22 21:22:44,714 - Recall: 35.53%
+2025-04-22 21:22:44,714 - F1 Score: 27.41%
+2025-04-22 21:22:44,714 - 
+=== Hiệu suất sinh câu trả lời ===
+2025-04-22 21:22:44,714 - ROUGE-1: 32.25%
+2025-04-22 21:22:44,714 - ROUGE-2: 20.58%
+2025-04-22 21:22:44,714 - ROUGE-L: 29.52%
+2025-04-22 21:22:44,714 - 
+=== Hiệu suất chọn đường dẫn ===
+2025-04-22 21:22:44,714 - Path Selection Accuracy: 61.47%
+2025-04-22 21:22:44,714 - 
+=== Hiệu suất SQL ===
+2025-04-22 21:22:44,714 - Total Queries: 75
+2025-04-22 21:22:44,714 - Successful Queries: 2 (2.67%)
+2025-04-22 21:22:44,715 - Not Found Answers: 73 (97.33%)
+2025-04-22 21:22:44,715 - 
+=== Chi tiết kết quả từng câu hỏi ===
+2025-04-22 21:22:44,715 - 
+Câu hỏi 1:
+2025-04-22 21:22:44,715 - Query: Festival Phở năm 2025 diễn ra ở đâu và vào thời gian nào?
+2025-04-22 21:22:44,715 - Expected Path: rag
+2025-04-22 21:22:44,715 - Actual Path: rag
+2025-04-22 21:22:44,715 - Path Correct: 1.0
+2025-04-22 21:22:44,715 - Pipeline Time: 64.09s
+2025-04-22 21:22:44,715 - 
+Câu hỏi 2:
+2025-04-22 21:22:44,715 - Query: Mục đích chính của Festival Phở năm 2025 là gì?
+2025-04-22 21:22:44,715 - Expected Path: rag
+2025-04-22 21:22:44,716 - Actual Path: rag
+2025-04-22 21:22:44,716 - Path Correct: 1.0
+2025-04-22 21:22:44,716 - Pipeline Time: 92.87s
+2025-04-22 21:22:44,716 - 
+Câu hỏi 3:
+2025-04-22 21:22:44,716 - Query: Festival Phở 2025 có bao nhiêu gian hàng tham gia?
+2025-04-22 21:22:44,716 - Expected Path: rag
+2025-04-22 21:22:44,716 - Actual Path: rag
+2025-04-22 21:22:44,716 - Path Correct: 1.0
+2025-04-22 21:22:44,716 - Pipeline Time: 38.53s
+2025-04-22 21:22:44,716 - 
+Câu hỏi 4:
+2025-04-22 21:22:44,716 - Query: Festival Phở 2025 có những không gian hoạt động nào?
+2025-04-22 21:22:44,717 - Expected Path: rag
+2025-04-22 21:22:44,717 - Actual Path: rag
+2025-04-22 21:22:44,717 - Path Correct: 1.0
+2025-04-22 21:22:44,717 - Pipeline Time: 26.39s
+2025-04-22 21:22:44,717 - 
+Câu hỏi 5:
+2025-04-22 21:22:44,717 - Query: Địa điểm cụ thể tổ chức Festival Phở 2025 tại Hoàng thành Thăng Long?
+2025-04-22 21:22:44,717 - Expected Path: rag
+2025-04-22 21:22:44,717 - Actual Path: rag
+2025-04-22 21:22:44,717 - Path Correct: 1.0
+2025-04-22 21:22:44,717 - Pipeline Time: 41.77s
+2025-04-22 21:22:44,717 - 
+Câu hỏi 6:
+2025-04-22 21:22:44,718 - Query: Ngày hội Du lịch TP. Hồ Chí Minh năm 2025 diễn ra trong thời gian nào?
+2025-04-22 21:22:44,718 - Expected Path: rag
+2025-04-22 21:22:44,718 - Actual Path: rag
+2025-04-22 21:22:44,718 - Path Correct: 1.0
+2025-04-22 21:22:44,718 - Pipeline Time: 24.66s
+2025-04-22 21:22:44,718 - 
+Câu hỏi 7:
+2025-04-22 21:22:44,718 - Query: Bắc Giang đã giới thiệu những sản phẩm nào tại Ngày hội Du lịch TP. Hồ Chí Minh?
+2025-04-22 21:22:44,718 - Expected Path: rag
+2025-04-22 21:22:44,718 - Actual Path: rag
+2025-04-22 21:22:44,718 - Path Correct: 1.0
+2025-04-22 21:22:44,718 - Pipeline Time: 49.94s
+2025-04-22 21:22:44,718 - 
+Câu hỏi 8:
+2025-04-22 21:22:44,719 - Query: Mục tiêu du lịch của Bắc Giang đến năm 2025 là gì?
+2025-04-22 21:22:44,719 - Expected Path: rag
+2025-04-22 21:22:44,719 - Actual Path: rag
+2025-04-22 21:22:44,719 - Path Correct: 1.0
+2025-04-22 21:22:44,719 - Pipeline Time: 62.95s
+2025-04-22 21:22:44,719 - 
+Câu hỏi 9:
+2025-04-22 21:22:44,719 - Query: Mục tiêu doanh thu du lịch Bắc Giang đến 2030?
+2025-04-22 21:22:44,719 - Expected Path: rag
+2025-04-22 21:22:44,719 - Actual Path: rag
+2025-04-22 21:22:44,719 - Path Correct: 1.0
+2025-04-22 21:22:44,719 - Pipeline Time: 42.58s
+2025-04-22 21:22:44,720 - 
+Câu hỏi 10:
+2025-04-22 21:22:44,720 - Query: Bắc Giang giới thiệu những loại hình du lịch nào tại sự kiện Ngày hội Du lịch TP. Hồ Chí Minh?
+2025-04-22 21:22:44,720 - Expected Path: rag
+2025-04-22 21:22:44,720 - Actual Path: rag
+2025-04-22 21:22:44,720 - Path Correct: 1.0
+2025-04-22 21:22:44,720 - Pipeline Time: 90.54s
+2025-04-22 21:22:44,720 - 
+Câu hỏi 11:
+2025-04-22 21:22:44,720 - Query: Các đường bay mới từ Kazakhstan đến Đà Nẵng có tần suất như thế nào?
+2025-04-22 21:22:44,720 - Expected Path: rag
+2025-04-22 21:22:44,720 - Actual Path: rag
+2025-04-22 21:22:44,720 - Path Correct: 1.0
+2025-04-22 21:22:44,721 - Pipeline Time: 42.38s
+2025-04-22 21:22:44,721 - 
+Câu hỏi 12:
+2025-04-22 21:22:44,721 - Query: Việc mở đường bay từ Myanmar đến Đà Nẵng có ý nghĩa gì?
+2025-04-22 21:22:44,721 - Expected Path: rag
+2025-04-22 21:22:44,721 - Actual Path: sql
+2025-04-22 21:22:44,721 - Path Correct: 0.0
+2025-04-22 21:22:44,721 - Pipeline Time: 34.24s
+2025-04-22 21:22:44,721 - 
+Câu hỏi 13:
+2025-04-22 21:22:44,721 - Query: Ai là người phát biểu về ý nghĩa của đường bay Almaty - Đà Nẵng?
+2025-04-22 21:22:44,721 - Expected Path: rag
+2025-04-22 21:22:44,721 - Actual Path: sql
+2025-04-22 21:22:44,721 - Path Correct: 0.0
+2025-04-22 21:22:44,722 - Pipeline Time: 12.79s
+2025-04-22 21:22:44,722 - 
+Câu hỏi 14:
+2025-04-22 21:22:44,722 - Query: Số lượng hành khách trên chuyến bay đầu tiên từ Kazakhstan đến Đà Nẵng?
+2025-04-22 21:22:44,722 - Expected Path: rag
+2025-04-22 21:22:44,722 - Actual Path: sql
+2025-04-22 21:22:44,722 - Path Correct: 0.0
+2025-04-22 21:22:44,722 - Pipeline Time: 14.51s
+2025-04-22 21:22:44,722 - 
+Câu hỏi 15:
+2025-04-22 21:22:44,722 - Query: Hoạt động chào đón khách Kazakhstan đến Đà Nẵng tại sân bay?
+2025-04-22 21:22:44,722 - Expected Path: rag
+2025-04-22 21:22:44,722 - Actual Path: sql
+2025-04-22 21:22:44,723 - Path Correct: 0.0
+2025-04-22 21:22:44,723 - Pipeline Time: 16.53s
+2025-04-22 21:22:44,723 - 
+Câu hỏi 16:
+2025-04-22 21:22:44,723 - Query: Những sự kiện nào sẽ diễn ra tại Đà Nẵng trong năm 2025?
+2025-04-22 21:22:44,723 - Expected Path: rag
+2025-04-22 21:22:44,723 - Actual Path: sql
+2025-04-22 21:22:44,723 - Path Correct: 0.0
+2025-04-22 21:22:44,723 - Pipeline Time: 50.37s
+2025-04-22 21:22:44,723 - 
+Câu hỏi 17:
+2025-04-22 21:22:44,723 - Query: Đà Nẵng đang tập trung khai thác thị trường khách du lịch nào?
+2025-04-22 21:22:44,723 - Expected Path: rag
+2025-04-22 21:22:44,724 - Actual Path: sql
+2025-04-22 21:22:44,724 - Path Correct: 0.0
+2025-04-22 21:22:44,724 - Pipeline Time: 10.09s
+2025-04-22 21:22:44,724 - 
+Câu hỏi 18:
+2025-04-22 21:22:44,724 - Query: Show Tiên Sa tại Đà Nẵng có thời lượng bao lâu?
+2025-04-22 21:22:44,724 - Expected Path: rag
+2025-04-22 21:22:44,724 - Actual Path: sql
+2025-04-22 21:22:44,724 - Path Correct: 0.0
+2025-04-22 21:22:44,724 - Pipeline Time: 7.85s
+2025-04-22 21:22:44,724 - 
+Câu hỏi 19:
+2025-04-22 21:22:44,724 - Query: Số lượng sân golf tại Đà Nẵng năm 2025?
+2025-04-22 21:22:44,725 - Expected Path: rag
+2025-04-22 21:22:44,725 - Actual Path: sql
+2025-04-22 21:22:44,725 - Path Correct: 0.0
+2025-04-22 21:22:44,725 - Pipeline Time: 14.44s
+2025-04-22 21:22:44,725 - 
+Câu hỏi 20:
+2025-04-22 21:22:44,725 - Query: Lợi thế của resort Đà Nẵng với khách Trung Đông?
+2025-04-22 21:22:44,725 - Expected Path: rag
+2025-04-22 21:22:44,725 - Actual Path: sql
+2025-04-22 21:22:44,725 - Path Correct: 0.0
+2025-04-22 21:22:44,725 - Pipeline Time: 21.39s
+2025-04-22 21:22:44,725 - 
+Câu hỏi 21:
+2025-04-22 21:22:44,725 - Query: Doanh thu từ du lịch Huế trong Quý I/2025 là bao nhiêu?
+2025-04-22 21:22:44,726 - Expected Path: rag
+2025-04-22 21:22:44,726 - Actual Path: rag
+2025-04-22 21:22:44,726 - Path Correct: 1.0
+2025-04-22 21:22:44,726 - Pipeline Time: 59.60s
+2025-04-22 21:22:44,726 - 
+Câu hỏi 22:
+2025-04-22 21:22:44,726 - Query: Top 10 thị trường khách hàng đầu đến Huế trong Quý I/2025 bao gồm những quốc gia nào?
+2025-04-22 21:22:44,726 - Expected Path: rag
+2025-04-22 21:22:44,726 - Actual Path: rag
+2025-04-22 21:22:44,726 - Path Correct: 1.0
+2025-04-22 21:22:44,726 - Pipeline Time: 64.47s
+2025-04-22 21:22:44,726 - 
+Câu hỏi 23:
+2025-04-22 21:22:44,727 - Query: Mục tiêu lượng khách du lịch đến Huế trong năm 2025 là gì?
+2025-04-22 21:22:44,727 - Expected Path: rag
+2025-04-22 21:22:44,727 - Actual Path: rag
+2025-04-22 21:22:44,727 - Path Correct: 1.0
+2025-04-22 21:22:44,727 - Pipeline Time: 41.27s
+2025-04-22 21:22:44,727 - 
+Câu hỏi 24:
+2025-04-22 21:22:44,727 - Query: Tăng trưởng khách quốc tế đến Huế Quý I/2025?
+2025-04-22 21:22:44,727 - Expected Path: rag
+2025-04-22 21:22:44,727 - Actual Path: rag
+2025-04-22 21:22:44,727 - Path Correct: 1.0
+2025-04-22 21:22:44,727 - Pipeline Time: 47.62s
+2025-04-22 21:22:44,728 - 
+Câu hỏi 25:
+2025-04-22 21:22:44,728 - Query: Mục tiêu doanh thu du lịch Huế 2025?
+2025-04-22 21:22:44,728 - Expected Path: rag
+2025-04-22 21:22:44,728 - Actual Path: rag
+2025-04-22 21:22:44,728 - Path Correct: 1.0
+2025-04-22 21:22:44,728 - Pipeline Time: 26.78s
+2025-04-22 21:22:44,728 - 
+Câu hỏi 26:
+2025-04-22 21:22:44,728 - Query: Sự kiện nào tạo điểm nhấn cho du lịch Huế đầu năm 2025?
+2025-04-22 21:22:44,728 - Expected Path: rag
+2025-04-22 21:22:44,728 - Actual Path: rag
+2025-04-22 21:22:44,728 - Path Correct: 1.0
+2025-04-22 21:22:44,728 - Pipeline Time: 22.14s
+2025-04-22 21:22:44,729 - 
+Câu hỏi 27:
+2025-04-22 21:22:44,729 - Query: Tàu Insignia thuộc hãng tàu nào và có quốc tịch gì?
+2025-04-22 21:22:44,729 - Expected Path: rag
+2025-04-22 21:22:44,729 - Actual Path: sql
+2025-04-22 21:22:44,729 - Path Correct: 0.0
+2025-04-22 21:22:44,729 - Pipeline Time: 9.94s
+2025-04-22 21:22:44,729 - 
+Câu hỏi 28:
+2025-04-22 21:22:44,729 - Query: Hải trình của tàu Insignia tại Việt Nam bao gồm những cảng nào?
+2025-04-22 21:22:44,729 - Expected Path: rag
+2025-04-22 21:22:44,729 - Actual Path: sql
+2025-04-22 21:22:44,729 - Path Correct: 0.0
+2025-04-22 21:22:44,730 - Pipeline Time: 14.99s
+2025-04-22 21:22:44,730 - 
+Câu hỏi 29:
+2025-04-22 21:22:44,730 - Query: Các hoạt động du lịch mà khách trên tàu Insignia tham gia tại Nha Trang?
+2025-04-22 21:22:44,730 - Expected Path: rag
+2025-04-22 21:22:44,730 - Actual Path: rag
+2025-04-22 21:22:44,730 - Path Correct: 1.0
+2025-04-22 21:22:44,730 - Pipeline Time: 43.28s
+2025-04-22 21:22:44,730 - 
+Câu hỏi 30:
+2025-04-22 21:22:44,730 - Query: Thông số kỹ thuật của tàu Insignia?
+2025-04-22 21:22:44,730 - Expected Path: rag
+2025-04-22 21:22:44,730 - Actual Path: sql
+2025-04-22 21:22:44,731 - Path Correct: 0.0
+2025-04-22 21:22:44,731 - Pipeline Time: 8.99s
+2025-04-22 21:22:44,731 - 
+Câu hỏi 31:
+2025-04-22 21:22:44,731 - Query: Số lượng khách du lịch trên tàu Insignia khi cập cảng Cam Ranh?
+2025-04-22 21:22:44,731 - Expected Path: rag
+2025-04-22 21:22:44,731 - Actual Path: rag
+2025-04-22 21:22:44,731 - Path Correct: 1.0
+2025-04-22 21:22:44,731 - Pipeline Time: 29.91s
+2025-04-22 21:22:44,731 - 
+Câu hỏi 32:
+2025-04-22 21:22:44,731 - Query: Mục tiêu lượng khách du lịch của TP.HCM năm 2025?
+2025-04-22 21:22:44,731 - Expected Path: rag
+2025-04-22 21:22:44,732 - Actual Path: sql
+2025-04-22 21:22:44,732 - Path Correct: 0.0
+2025-04-22 21:22:44,732 - Pipeline Time: 14.11s
+2025-04-22 21:22:44,732 - 
+Câu hỏi 33:
+2025-04-22 21:22:44,732 - Query: Giải pháp chuyển đổi số ngành du lịch TP.HCM?
+2025-04-22 21:22:44,732 - Expected Path: rag
+2025-04-22 21:22:44,732 - Actual Path: sql
+2025-04-22 21:22:44,732 - Path Correct: 0.0
+2025-04-22 21:22:44,732 - Pipeline Time: 9.89s
+2025-04-22 21:22:44,732 - 
+Câu hỏi 34:
+2025-04-22 21:22:44,732 - Query: Thách thức doanh nghiệp du lịch TP.HCM đang gặp phải?
+2025-04-22 21:22:44,733 - Expected Path: rag
+2025-04-22 21:22:44,733 - Actual Path: sql
+2025-04-22 21:22:44,733 - Path Correct: 0.0
+2025-04-22 21:22:44,733 - Pipeline Time: 9.27s
+2025-04-22 21:22:44,733 - 
+Câu hỏi 35:
+2025-04-22 21:22:44,733 - Query: Đề xuất của doanh nghiệp để phát triển du lịch TP.HCM?
+2025-04-22 21:22:44,733 - Expected Path: rag
+2025-04-22 21:22:44,733 - Actual Path: sql
+2025-04-22 21:22:44,734 - Path Correct: 0.0
+2025-04-22 21:22:44,734 - Pipeline Time: 39.46s
+2025-04-22 21:22:44,734 - 
+Câu hỏi 36:
+2025-04-22 21:22:44,734 - Query: Ai là người phát biểu tại hội nghị phát động thi đua chào mừng kỷ niệm 50 năm giải phóng miền Nam do sở Du lịch TP Hồ Chí Minh tổ chức?
+2025-04-22 21:22:44,734 - Expected Path: rag
+2025-04-22 21:22:44,734 - Actual Path: rag
+2025-04-22 21:22:44,734 - Path Correct: 1.0
+2025-04-22 21:22:44,734 - Pipeline Time: 37.80s
+2025-04-22 21:22:44,734 - 
+Câu hỏi 37:
+2025-04-22 21:22:44,734 - Query: Số lượng đền thờ Vua Hùng trên cả nước?
+2025-04-22 21:22:44,734 - Expected Path: rag
+2025-04-22 21:22:44,735 - Actual Path: rag
+2025-04-22 21:22:44,735 - Path Correct: 1.0
+2025-04-22 21:22:44,735 - Pipeline Time: 25.83s
+2025-04-22 21:22:44,735 - 
+Câu hỏi 38:
+2025-04-22 21:22:44,735 - Query: Ngày tổ chức Lễ dâng hương tưởng niệm các Vua Hùng 2025?
+2025-04-22 21:22:44,735 - Expected Path: rag
+2025-04-22 21:22:44,735 - Actual Path: sql
+2025-04-22 21:22:44,735 - Path Correct: 0.0
+2025-04-22 21:22:44,735 - Pipeline Time: 18.81s
+2025-04-22 21:22:44,735 - 
+Câu hỏi 39:
+2025-04-22 21:22:44,735 - Query: Biện pháp đảm bảo an ninh tại Đền Hùng 2025?
+2025-04-22 21:22:44,736 - Expected Path: rag
+2025-04-22 21:22:44,736 - Actual Path: sql
+2025-04-22 21:22:44,736 - Path Correct: 0.0
+2025-04-22 21:22:44,736 - Pipeline Time: 10.87s
+2025-04-22 21:22:44,736 - 
+Câu hỏi 40:
+2025-04-22 21:22:44,736 - Query: Tên 3 ngôi đền chính trên núi Nghĩa Lĩnh?
+2025-04-22 21:22:44,736 - Expected Path: rag
+2025-04-22 21:22:44,736 - Actual Path: sql
+2025-04-22 21:22:44,736 - Path Correct: 0.0
+2025-04-22 21:22:44,736 - Pipeline Time: 8.75s
+2025-04-22 21:22:44,737 - 
+Câu hỏi 41:
+2025-04-22 21:22:44,737 - Query: Các huyện nào ở Phú Thọ có không gian thờ cúng Hùng Vương?
+2025-04-22 21:22:44,737 - Expected Path: rag
+2025-04-22 21:22:44,737 - Actual Path: rag
+2025-04-22 21:22:44,737 - Path Correct: 1.0
+2025-04-22 21:22:44,737 - Pipeline Time: 98.35s
+2025-04-22 21:22:44,737 - 
+Câu hỏi 42:
+2025-04-22 21:22:44,737 - Query: Kích thước và trọng lượng phù điêu Kala Núi Bà?
+2025-04-22 21:22:44,737 - Expected Path: rag
+2025-04-22 21:22:44,737 - Actual Path: rag
+2025-04-22 21:22:44,737 - Path Correct: 1.0
+2025-04-22 21:22:44,738 - Pipeline Time: 49.27s
+2025-04-22 21:22:44,738 - 
+Câu hỏi 43:
+2025-04-22 21:22:44,738 - Query: Nơi phát hiện phù điêu Kala?
+2025-04-22 21:22:44,738 - Expected Path: rag
+2025-04-22 21:22:44,738 - Actual Path: rag
+2025-04-22 21:22:44,738 - Path Correct: 1.0
+2025-04-22 21:22:44,738 - Pipeline Time: 81.59s
+2025-04-22 21:22:44,738 - 
+Câu hỏi 44:
+2025-04-22 21:22:44,738 - Query: Phong cách nghệ thuật của phù điêu Kala?
+2025-04-22 21:22:44,738 - Expected Path: rag
+2025-04-22 21:22:44,738 - Actual Path: rag
+2025-04-22 21:22:44,739 - Path Correct: 1.0
+2025-04-22 21:22:44,739 - Pipeline Time: 38.07s
+2025-04-22 21:22:44,739 - 
+Câu hỏi 45:
+2025-04-22 21:22:44,739 - Query: Biểu tượng Kala trong văn hóa Champa?
+2025-04-22 21:22:44,739 - Expected Path: rag
+2025-04-22 21:22:44,739 - Actual Path: rag
+2025-04-22 21:22:44,739 - Path Correct: 1.0
+2025-04-22 21:22:44,739 - Pipeline Time: 126.56s
+2025-04-22 21:22:44,739 - 
+Câu hỏi 46:
+2025-04-22 21:22:44,739 - Query: Tên các di tích Chăm tiêu biểu tại Phú Yên?
+2025-04-22 21:22:44,740 - Expected Path: rag
+2025-04-22 21:22:44,740 - Actual Path: sql
+2025-04-22 21:22:44,740 - Path Correct: 0.0
+2025-04-22 21:22:44,740 - Pipeline Time: 25.40s
+2025-04-22 21:22:44,740 - 
+Câu hỏi 47:
+2025-04-22 21:22:44,740 - Query: Tổng giá trị ưu đãi kích cầu du lịch Quảng Nam 2025?
+2025-04-22 21:22:44,740 - Expected Path: rag
+2025-04-22 21:22:44,740 - Actual Path: rag
+2025-04-22 21:22:44,740 - Path Correct: 1.0
+2025-04-22 21:22:44,740 - Pipeline Time: 32.38s
+2025-04-22 21:22:44,740 - 
+Câu hỏi 48:
+2025-04-22 21:22:44,741 - Query: Các sản phẩm du lịch được ưu đãi 50% trong chương trình ưu đãi của Quảng Nam 2025?
+2025-04-22 21:22:44,741 - Expected Path: rag
+2025-04-22 21:22:44,741 - Actual Path: sql
+2025-04-22 21:22:44,741 - Path Correct: 0.0
+2025-04-22 21:22:44,741 - Pipeline Time: 12.66s
+2025-04-22 21:22:44,741 - 
+Câu hỏi 49:
+2025-04-22 21:22:44,741 - Query: Số doanh nghiệp tham gia chương trình kích cầu du lịch Quảng Nam 2025?
+2025-04-22 21:22:44,741 - Expected Path: rag
+2025-04-22 21:22:44,741 - Actual Path: sql
+2025-04-22 21:22:44,741 - Path Correct: 0.0
+2025-04-22 21:22:44,742 - Pipeline Time: 7.65s
+2025-04-22 21:22:44,742 - 
+Câu hỏi 50:
+2025-04-22 21:22:44,742 - Query: Các điểm đến độc đáo trong chương trình ưu đãi của Quảng Nam 2025?
+2025-04-22 21:22:44,742 - Expected Path: rag
+2025-04-22 21:22:44,742 - Actual Path: sql
+2025-04-22 21:22:44,742 - Path Correct: 0.0
+2025-04-22 21:22:44,742 - Pipeline Time: 19.03s
+2025-04-22 21:22:44,742 - 
+Câu hỏi 51:
+2025-04-22 21:22:44,742 - Query: Tên 'Cung đường di sản' của Quảng Nam 2025 bao gồm những điểm nào?
+2025-04-22 21:22:44,742 - Expected Path: rag
+2025-04-22 21:22:44,742 - Actual Path: sql
+2025-04-22 21:22:44,743 - Path Correct: 0.0
+2025-04-22 21:22:44,743 - Pipeline Time: 16.69s
+2025-04-22 21:22:44,743 - 
+Câu hỏi 52:
+2025-04-22 21:22:44,743 - Query: Cặp cửa khẩu nào được thông quan cho du lịch biên giới tại Quảng Ninh?
+2025-04-22 21:22:44,743 - Expected Path: rag
+2025-04-22 21:22:44,743 - Actual Path: rag
+2025-04-22 21:22:44,743 - Path Correct: 1.0
+2025-04-22 21:22:44,743 - Pipeline Time: 40.77s
+2025-04-22 21:22:44,743 - 
+Câu hỏi 53:
+2025-04-22 21:22:44,743 - Query: Số lượng khách Trung Quốc trung bình mỗi ngày qua cửa khẩu Hoành Mô?
+2025-04-22 21:22:44,743 - Expected Path: rag
+2025-04-22 21:22:44,744 - Actual Path: sql
+2025-04-22 21:22:44,744 - Path Correct: 0.0
+2025-04-22 21:22:44,744 - Pipeline Time: 13.48s
+2025-04-22 21:22:44,744 - 
+Câu hỏi 54:
+2025-04-22 21:22:44,744 - Query: Các tour du lịch biên giới đặc trưng tại Bình Liêu?
+2025-04-22 21:22:44,744 - Expected Path: rag
+2025-04-22 21:22:44,744 - Actual Path: sql
+2025-04-22 21:22:44,744 - Path Correct: 0.0
+2025-04-22 21:22:44,744 - Pipeline Time: 5.96s
+2025-04-22 21:22:44,744 - 
+Câu hỏi 55:
+2025-04-22 21:22:44,745 - Query: Mục tiêu du lịch của Quảng Ninh năm 2025?
+2025-04-22 21:22:44,745 - Expected Path: rag
+2025-04-22 21:22:44,745 - Actual Path: sql
+2025-04-22 21:22:44,745 - Path Correct: 0.0
+2025-04-22 21:22:44,745 - Pipeline Time: 8.95s
+2025-04-22 21:22:44,745 - 
+Câu hỏi 56:
+2025-04-22 21:22:44,745 - Query: Hoạt động giao lưu nào sẽ diễn ra tại Móng Cái dịp 30/4?
+2025-04-22 21:22:44,745 - Expected Path: rag
+2025-04-22 21:22:44,745 - Actual Path: sql
+2025-04-22 21:22:44,745 - Path Correct: 0.0
+2025-04-22 21:22:44,745 - Pipeline Time: 10.51s
+2025-04-22 21:22:44,746 - 
+Câu hỏi 57:
+2025-04-22 21:22:44,746 - Query: Địa điểm tổ chức Lễ tri ân Quốc Tổ tại Cà Mau?
+2025-04-22 21:22:44,746 - Expected Path: rag
+2025-04-22 21:22:44,746 - Actual Path: sql
+2025-04-22 21:22:44,746 - Path Correct: 0.0
+2025-04-22 21:22:44,746 - Pipeline Time: 21.02s
+2025-04-22 21:22:44,746 - 
+Câu hỏi 58:
+2025-04-22 21:22:44,746 - Query: Các hoạt động tại Lễ giỗ Tổ Hùng Vương ở Cà Mau?
+2025-04-22 21:22:44,746 - Expected Path: rag
+2025-04-22 21:22:44,746 - Actual Path: rag
+2025-04-22 21:22:44,746 - Path Correct: 1.0
+2025-04-22 21:22:44,747 - Pipeline Time: 94.66s
+2025-04-22 21:22:44,747 - 
+Câu hỏi 59:
+2025-04-22 21:22:44,747 - Query: Ý nghĩa của Di tích Bến Vàm Lũng?
+2025-04-22 21:22:44,747 - Expected Path: rag
+2025-04-22 21:22:44,747 - Actual Path: sql
+2025-04-22 21:22:44,747 - Path Correct: 0.0
+2025-04-22 21:22:44,747 - Pipeline Time: 9.28s
+2025-04-22 21:22:44,747 - 
+Câu hỏi 60:
+2025-04-22 21:22:44,747 - Query: Đền thờ Vua Hùng tại Cà Mau có từ khi nào?
+2025-04-22 21:22:44,747 - Expected Path: rag
+2025-04-22 21:22:44,747 - Actual Path: rag
+2025-04-22 21:22:44,748 - Path Correct: 1.0
+2025-04-22 21:22:44,748 - Pipeline Time: 9.66s
+2025-04-22 21:22:44,748 - 
+Câu hỏi 61:
+2025-04-22 21:22:44,748 - Query: Các môn thi đấu thể thao tại Lễ tri ân Quốc Tổ?
+2025-04-22 21:22:44,748 - Expected Path: rag
+2025-04-22 21:22:44,748 - Actual Path: sql
+2025-04-22 21:22:44,748 - Path Correct: 0.0
+2025-04-22 21:22:44,748 - Pipeline Time: 13.53s
+2025-04-22 21:22:44,748 - 
+Câu hỏi 62:
+2025-04-22 21:22:44,748 - Query: Mục tiêu của Hội nghị xúc tiến du lịch Thái Nguyên tại Hà Nội?
+2025-04-22 21:22:44,748 - Expected Path: rag
+2025-04-22 21:22:44,749 - Actual Path: rag
+2025-04-22 21:22:44,749 - Path Correct: 1.0
+2025-04-22 21:22:44,749 - Pipeline Time: 67.48s
+2025-04-22 21:22:44,749 - 
+Câu hỏi 63:
+2025-04-22 21:22:44,749 - Query: Thế mạnh du lịch của Thái Nguyên?
+2025-04-22 21:22:44,749 - Expected Path: rag
+2025-04-22 21:22:44,749 - Actual Path: sql
+2025-04-22 21:22:44,749 - Path Correct: 0.0
+2025-04-22 21:22:44,749 - Pipeline Time: 9.46s
+2025-04-22 21:22:44,749 - 
+Câu hỏi 64:
+2025-04-22 21:22:44,749 - Query: Sự kiện nào Thái Nguyên sẽ tổ chức cuối tháng 4/2025?
+2025-04-22 21:22:44,750 - Expected Path: rag
+2025-04-22 21:22:44,750 - Actual Path: sql
+2025-04-22 21:22:44,750 - Path Correct: 0.0
+2025-04-22 21:22:44,750 - Pipeline Time: 15.84s
+2025-04-22 21:22:44,750 - 
+Câu hỏi 65:
+2025-04-22 21:22:44,750 - Query: Doanh thu từ chè của Thái Nguyên ước đạt bao nhiêu?
+2025-04-22 21:22:44,750 - Expected Path: rag
+2025-04-22 21:22:44,750 - Actual Path: sql
+2025-04-22 21:22:44,750 - Path Correct: 0.0
+2025-04-22 21:22:44,751 - Pipeline Time: 10.02s
+2025-04-22 21:22:44,751 - 
+Câu hỏi 66:
+2025-04-22 21:22:44,751 - Query: Các điểm du lịch sinh thái nổi bật tại Thái Nguyên?
+2025-04-22 21:22:44,751 - Expected Path: rag
+2025-04-22 21:22:44,751 - Actual Path: sql
+2025-04-22 21:22:44,751 - Path Correct: 0.0
+2025-04-22 21:22:44,751 - Pipeline Time: 14.65s
+2025-04-22 21:22:44,751 - 
+Câu hỏi 67:
+2025-04-22 21:22:44,752 - Query: Thông điệp (slogan) du lịch TP.HCM năm 2025?
+2025-04-22 21:22:44,752 - Expected Path: rag
+2025-04-22 21:22:44,752 - Actual Path: sql
+2025-04-22 21:22:44,752 - Path Correct: 0.0
+2025-04-22 21:22:44,752 - Pipeline Time: 16.78s
+2025-04-22 21:22:44,752 - 
+Câu hỏi 68:
+2025-04-22 21:22:44,752 - Query: Địa điểm triển lãm 50 ảnh đẹp du lịch TP.HCM?
+2025-04-22 21:22:44,752 - Expected Path: rag
+2025-04-22 21:22:44,752 - Actual Path: rag
+2025-04-22 21:22:44,752 - Path Correct: 1.0
+2025-04-22 21:22:44,752 - Pipeline Time: 28.42s
+2025-04-22 21:22:44,753 - 
+Câu hỏi 69:
+2025-04-22 21:22:44,753 - Query: Giải nhất cuộc thi thiết kế chương trình du lịch chào mừng 30/4?
+2025-04-22 21:22:44,753 - Expected Path: rag
+2025-04-22 21:22:44,753 - Actual Path: sql
+2025-04-22 21:22:44,753 - Path Correct: 0.0
+2025-04-22 21:22:44,753 - Pipeline Time: 45.56s
+2025-04-22 21:22:44,753 - 
+Câu hỏi 70:
+2025-04-22 21:22:44,754 - Query: Thời điểm công bố bộ nhận diện du lịch TP.HCM?
+2025-04-22 21:22:44,754 - Expected Path: rag
+2025-04-22 21:22:44,754 - Actual Path: sql
+2025-04-22 21:22:44,754 - Path Correct: 0.0
+2025-04-22 21:22:44,754 - Pipeline Time: 14.11s
+2025-04-22 21:22:44,754 - 
+Câu hỏi 71:
+2025-04-22 21:22:44,754 - Query: Đặc điểm thiết kế logo du lịch TP.HCM?
+2025-04-22 21:22:44,754 - Expected Path: rag
+2025-04-22 21:22:44,754 - Actual Path: sql
+2025-04-22 21:22:44,754 - Path Correct: 0.0
+2025-04-22 21:22:44,754 - Pipeline Time: 14.19s
+2025-04-22 21:22:44,755 - 
+Câu hỏi 72:
+2025-04-22 21:22:44,755 - Query: Chủ đề và thời gian tổ chức Tuần Du lịch Ninh Bình 2025?
+2025-04-22 21:22:44,755 - Expected Path: rag
+2025-04-22 21:22:44,755 - Actual Path: rag
+2025-04-22 21:22:44,755 - Path Correct: 1.0
+2025-04-22 21:22:44,755 - Pipeline Time: 111.91s
+2025-04-22 21:22:44,755 - 
+Câu hỏi 73:
+2025-04-22 21:22:44,755 - Query: Các hoạt động chính trong Tuần Du lịch?
+2025-04-22 21:22:44,755 - Expected Path: rag
+2025-04-22 21:22:44,755 - Actual Path: sql
+2025-04-22 21:22:44,755 - Path Correct: 0.0
+2025-04-22 21:22:44,756 - Pipeline Time: 8.44s
+2025-04-22 21:22:44,756 - 
+Câu hỏi 74:
+2025-04-22 21:22:44,756 - Query: Giải pháp để Ninh Bình trở thành điểm đến hàng đầu châu Á?
+2025-04-22 21:22:44,756 - Expected Path: rag
+2025-04-22 21:22:44,756 - Actual Path: sql
+2025-04-22 21:22:44,756 - Path Correct: 0.0
+2025-04-22 21:22:44,756 - Pipeline Time: 15.27s
+2025-04-22 21:22:44,756 - 
+Câu hỏi 75:
+2025-04-22 21:22:44,756 - Query: Di sản thế giới nào Ninh Bình sở hữu?
+2025-04-22 21:22:44,756 - Expected Path: rag
+2025-04-22 21:22:44,756 - Actual Path: sql
+2025-04-22 21:22:44,757 - Path Correct: 0.0
+2025-04-22 21:22:44,757 - Pipeline Time: 6.14s
+2025-04-22 21:22:44,757 - 
+Câu hỏi 76:
+2025-04-22 21:22:44,757 - Query: Các địa phương nào Ninh Bình muốn liên kết du lịch?
+2025-04-22 21:22:44,757 - Expected Path: rag
+2025-04-22 21:22:44,757 - Actual Path: rag
+2025-04-22 21:22:44,757 - Path Correct: 1.0
+2025-04-22 21:22:44,757 - Pipeline Time: 87.81s
+2025-04-22 21:22:44,757 - 
+Câu hỏi 77:
+2025-04-22 21:22:44,757 - Query: Hãy cho tôi biết thông tin của một số cơ sở đào tạo du lịch có địa chỉ ở thành phố Hồ Chí Minh
+2025-04-22 21:22:44,757 - Expected Path: sql
+2025-04-22 21:22:44,758 - Actual Path: sql
+2025-04-22 21:22:44,758 - Path Correct: 1.0
+2025-04-22 21:22:44,758 - Pipeline Time: 16.53s
+2025-04-22 21:22:44,758 - 
+Câu hỏi 78:
+2025-04-22 21:22:44,758 - Query: Hãy cho tôi biết thông tin của trường Cao đẳng Du lịch Vũng Tàu
+2025-04-22 21:22:44,758 - Expected Path: sql
+2025-04-22 21:22:44,758 - Actual Path: sql
+2025-04-22 21:22:44,758 - Path Correct: 1.0
+2025-04-22 21:22:44,758 - Pipeline Time: 9.27s
+2025-04-22 21:22:44,758 - 
+Câu hỏi 79:
+2025-04-22 21:22:44,759 - Query: Tôi muốn tìm trường đào tạo du lịch ở Hà Nội
+2025-04-22 21:22:44,759 - Expected Path: sql
+2025-04-22 21:22:44,759 - Actual Path: sql
+2025-04-22 21:22:44,759 - Path Correct: 1.0
+2025-04-22 21:22:44,759 - Pipeline Time: 13.61s
+2025-04-22 21:22:44,759 - 
+Câu hỏi 80:
+2025-04-22 21:22:44,759 - Query: Cho tôi biết thông tin của một số hướng dẫn viên ở Hồ Chí Minh
+2025-04-22 21:22:44,759 - Expected Path: sql
+2025-04-22 21:22:44,759 - Actual Path: sql
+2025-04-22 21:22:44,759 - Path Correct: 1.0
+2025-04-22 21:22:44,759 - Pipeline Time: 29.25s
+2025-04-22 21:22:44,760 - 
+Câu hỏi 81:
+2025-04-22 21:22:44,760 - Query: Liệt kê các hướng dẫn viên ở điểm du lịch Cù Lao Chàm
+2025-04-22 21:22:44,760 - Expected Path: sql
+2025-04-22 21:22:44,760 - Actual Path: sql
+2025-04-22 21:22:44,760 - Path Correct: 1.0
+2025-04-22 21:22:44,760 - Pipeline Time: 15.29s
+2025-04-22 21:22:44,760 - 
+Câu hỏi 82:
+2025-04-22 21:22:44,760 - Query: Tìm các hướng dẫn viên có thể nói tiếng Hàn (Korean)
+2025-04-22 21:22:44,760 - Expected Path: sql
+2025-04-22 21:22:44,760 - Actual Path: sql
+2025-04-22 21:22:44,760 - Path Correct: 1.0
+2025-04-22 21:22:44,761 - Pipeline Time: 13.44s
+2025-04-22 21:22:44,761 - 
+Câu hỏi 83:
+2025-04-22 21:22:44,761 - Query: Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội
+2025-04-22 21:22:44,761 - Expected Path: sql
+2025-04-22 21:22:44,761 - Actual Path: sql
+2025-04-22 21:22:44,761 - Path Correct: 1.0
+2025-04-22 21:22:44,761 - Pipeline Time: 16.38s
+2025-04-22 21:22:44,761 - 
+Câu hỏi 84:
+2025-04-22 21:22:44,761 - Query: Liệt kê các khách sạn có trên 300 phòng
+2025-04-22 21:22:44,761 - Expected Path: sql
+2025-04-22 21:22:44,761 - Actual Path: sql
+2025-04-22 21:22:44,762 - Path Correct: 1.0
+2025-04-22 21:22:44,762 - Pipeline Time: 23.10s
+2025-04-22 21:22:44,762 - 
+Câu hỏi 85:
+2025-04-22 21:22:44,762 - Query: Tìm các biệt thự du lịch ở Hội An
+2025-04-22 21:22:44,762 - Expected Path: sql
+2025-04-22 21:22:44,762 - Actual Path: sql
+2025-04-22 21:22:44,762 - Path Correct: 1.0
+2025-04-22 21:22:44,762 - Pipeline Time: 17.91s
+2025-04-22 21:22:44,762 - 
+Câu hỏi 86:
+2025-04-22 21:22:44,762 - Query: Cho tôi biết một số nhà hàng ở Cà Mau
+2025-04-22 21:22:44,763 - Expected Path: sql
+2025-04-22 21:22:44,763 - Actual Path: sql
+2025-04-22 21:22:44,763 - Path Correct: 1.0
+2025-04-22 21:22:44,763 - Pipeline Time: 12.95s
+2025-04-22 21:22:44,763 - 
+Câu hỏi 87:
+2025-04-22 21:22:44,763 - Query: Tôi muốn tìm một số quán ăn The Pizza Company
+2025-04-22 21:22:44,763 - Expected Path: sql
+2025-04-22 21:22:44,763 - Actual Path: sql
+2025-04-22 21:22:44,763 - Path Correct: 1.0
+2025-04-22 21:22:44,763 - Pipeline Time: 15.52s
+2025-04-22 21:22:44,763 - 
+Câu hỏi 88:
+2025-04-22 21:22:44,764 - Query: Tôi muốn tìm địa điểm ăn uống ở quận 1
+2025-04-22 21:22:44,764 - Expected Path: sql
+2025-04-22 21:22:44,764 - Actual Path: sql
+2025-04-22 21:22:44,764 - Path Correct: 1.0
+2025-04-22 21:22:44,764 - Pipeline Time: 9.38s
+2025-04-22 21:22:44,764 - 
+Câu hỏi 89:
+2025-04-22 21:22:44,764 - Query: Cho tôi biết các điểm du lịch nổi tiếng ở Huế
+2025-04-22 21:22:44,764 - Expected Path: sql
+2025-04-22 21:22:44,764 - Actual Path: sql
+2025-04-22 21:22:44,764 - Path Correct: 1.0
+2025-04-22 21:22:44,764 - Pipeline Time: 15.35s
+2025-04-22 21:22:44,765 - 
+Câu hỏi 90:
+2025-04-22 21:22:44,765 - Query: Tôi muốn biết thông tin về Vườn quốc gia Bạch Mã
+2025-04-22 21:22:44,765 - Expected Path: sql
+2025-04-22 21:22:44,765 - Actual Path: sql
+2025-04-22 21:22:44,765 - Path Correct: 1.0
+2025-04-22 21:22:44,765 - Pipeline Time: 14.38s
+2025-04-22 21:22:44,765 - 
+Câu hỏi 91:
+2025-04-22 21:22:44,765 - Query: Hãy cho tôi một vài thông tin về Khu di tích Trường Dục Thanh
+2025-04-22 21:22:44,765 - Expected Path: sql
+2025-04-22 21:22:44,765 - Actual Path: sql
+2025-04-22 21:22:44,766 - Path Correct: 1.0
+2025-04-22 21:22:44,766 - Pipeline Time: 15.55s
+2025-04-22 21:22:44,766 - 
+Câu hỏi 92:
+2025-04-22 21:22:44,766 - Query: Tôi cần tìm một vài công ty du lịch ở Đà Nẵng
+2025-04-22 21:22:44,766 - Expected Path: sql
+2025-04-22 21:22:44,766 - Actual Path: sql
+2025-04-22 21:22:44,766 - Path Correct: 1.0
+2025-04-22 21:22:44,766 - Pipeline Time: 22.18s
+2025-04-22 21:22:44,766 - 
+Câu hỏi 93:
+2025-04-22 21:22:44,766 - Query: Tôi muốn biết thông tin về Công ty TNHH Du lịch Điện Biên
+2025-04-22 21:22:44,767 - Expected Path: sql
+2025-04-22 21:22:44,767 - Actual Path: sql
+2025-04-22 21:22:44,767 - Path Correct: 1.0
+2025-04-22 21:22:44,767 - Pipeline Time: 11.21s
+2025-04-22 21:22:44,767 - 
+Câu hỏi 94:
+2025-04-22 21:22:44,767 - Query: Tôi muốn tìm đại lý du lịch ở thành phố Hồ Chí Minh
+2025-04-22 21:22:44,767 - Expected Path: sql
+2025-04-22 21:22:44,767 - Actual Path: sql
+2025-04-22 21:22:44,767 - Path Correct: 1.0
+2025-04-22 21:22:44,767 - Pipeline Time: 33.95s
+2025-04-22 21:22:44,768 - 
+Câu hỏi 95:
+2025-04-22 21:22:44,768 - Query: Cho tôi biết các trung tâm thương mại lớn ở Hà Nội
+2025-04-22 21:22:44,768 - Expected Path: sql
+2025-04-22 21:22:44,768 - Actual Path: sql
+2025-04-22 21:22:44,768 - Path Correct: 1.0
+2025-04-22 21:22:44,768 - Pipeline Time: 15.73s
+2025-04-22 21:22:44,768 - 
+Câu hỏi 96:
+2025-04-22 21:22:44,768 - Query: Liệt kê các chợ đêm nổi tiếng ở Việt Nam
+2025-04-22 21:22:44,768 - Expected Path: sql
+2025-04-22 21:22:44,768 - Actual Path: sql
+2025-04-22 21:22:44,768 - Path Correct: 1.0
+2025-04-22 21:22:44,769 - Pipeline Time: 35.94s
+2025-04-22 21:22:44,769 - 
+Câu hỏi 97:
+2025-04-22 21:22:44,769 - Query: Tìm một vài điểm mua sắm ở Long An
+2025-04-22 21:22:44,769 - Expected Path: sql
+2025-04-22 21:22:44,769 - Actual Path: sql
+2025-04-22 21:22:44,769 - Path Correct: 1.0
+2025-04-22 21:22:44,769 - Pipeline Time: 13.56s
+2025-04-22 21:22:44,769 - 
+Câu hỏi 98:
+2025-04-22 21:22:44,769 - Query: Cho tôi biết các công ty taxi uy tín ở Bình Dương
+2025-04-22 21:22:44,769 - Expected Path: sql
+2025-04-22 21:22:44,769 - Actual Path: sql
+2025-04-22 21:22:44,770 - Path Correct: 1.0
+2025-04-22 21:22:44,770 - Pipeline Time: 11.50s
+2025-04-22 21:22:44,770 - 
+Câu hỏi 99:
+2025-04-22 21:22:44,770 - Query: Liệt kê các doanh nghiệp vận tải ở An Giang
+2025-04-22 21:22:44,770 - Expected Path: sql
+2025-04-22 21:22:44,770 - Actual Path: sql
+2025-04-22 21:22:44,770 - Path Correct: 1.0
+2025-04-22 21:22:44,770 - Pipeline Time: 14.96s
+2025-04-22 21:22:44,770 - 
+Câu hỏi 100:
+2025-04-22 21:22:44,770 - Query: Tôi cần thông tin về nhà xe Đồng xanh Motorbike
+2025-04-22 21:22:44,770 - Expected Path: sql
+2025-04-22 21:22:44,771 - Actual Path: sql
+2025-04-22 21:22:44,771 - Path Correct: 1.0
+2025-04-22 21:22:44,771 - Pipeline Time: 21.42s
+2025-04-22 21:22:44,771 - 
+Câu hỏi 101:
+2025-04-22 21:22:44,771 - Query: Cho tôi thông tin của một số trung tâm thương mại Vincom Plaza
+2025-04-22 21:22:44,771 - Expected Path: sql
+2025-04-22 21:22:44,771 - Actual Path: sql
+2025-04-22 21:22:44,771 - Path Correct: 1.0
+2025-04-22 21:22:44,771 - Pipeline Time: 15.62s
+2025-04-22 21:22:44,771 - 
+Câu hỏi 102:
+2025-04-22 21:22:44,771 - Query: Tôi cần thông tin về Quảng trường Hồ Chí Minh
+2025-04-22 21:22:44,772 - Expected Path: sql
+2025-04-22 21:22:44,772 - Actual Path: sql
+2025-04-22 21:22:44,772 - Path Correct: 1.0
+2025-04-22 21:22:44,772 - Pipeline Time: 13.53s
+2025-04-22 21:22:44,772 - 
+Câu hỏi 103:
+2025-04-22 21:22:44,772 - Query: Tìm các khu vui chơi giải trí ở Khánh Hòa
+2025-04-22 21:22:44,772 - Expected Path: sql
+2025-04-22 21:22:44,772 - Actual Path: sql
+2025-04-22 21:22:44,772 - Path Correct: 1.0
+2025-04-22 21:22:44,772 - Pipeline Time: 18.33s
+2025-04-22 21:22:44,772 - 
+Câu hỏi 104:
+2025-04-22 21:22:44,773 - Query: Cho tôi biết thông tin về Hiệp hội du lịch Việt Nam
+2025-04-22 21:22:44,773 - Expected Path: sql
+2025-04-22 21:22:44,773 - Actual Path: sql
+2025-04-22 21:22:44,773 - Path Correct: 1.0
+2025-04-22 21:22:44,773 - Pipeline Time: 20.01s
+2025-04-22 21:22:44,773 - 
+Câu hỏi 105:
+2025-04-22 21:22:44,773 - Query: Địa chỉ của Hiệp hội du lịch Vĩnh Phúc
+2025-04-22 21:22:44,773 - Expected Path: sql
+2025-04-22 21:22:44,773 - Actual Path: sql
+2025-04-22 21:22:44,773 - Path Correct: 1.0
+2025-04-22 21:22:44,774 - Pipeline Time: 8.63s
+2025-04-22 21:22:44,774 - 
+Câu hỏi 106:
+2025-04-22 21:22:44,774 - Query: Tìm thông tin liên hệ của Hiệp hội du lịch An Giang
+2025-04-22 21:22:44,774 - Expected Path: sql
+2025-04-22 21:22:44,774 - Actual Path: sql
+2025-04-22 21:22:44,774 - Path Correct: 1.0
+2025-04-22 21:22:44,774 - Pipeline Time: 12.72s
+2025-04-22 21:22:44,774 - 
+Câu hỏi 107:
+2025-04-22 21:22:44,774 - Query: Tôi muốn tìm sân golf ở Hà Nội
+2025-04-22 21:22:44,774 - Expected Path: sql
+2025-04-22 21:22:44,774 - Actual Path: sql
+2025-04-22 21:22:44,775 - Path Correct: 1.0
+2025-04-22 21:22:44,775 - Pipeline Time: 15.10s
+2025-04-22 21:22:44,775 - 
+Câu hỏi 108:
+2025-04-22 21:22:44,775 - Query: Liệt kê một vài cơ sở thể thao ở thành phố Hồ Chí Minh
+2025-04-22 21:22:44,775 - Expected Path: sql
+2025-04-22 21:22:44,775 - Actual Path: sql
+2025-04-22 21:22:44,775 - Path Correct: 1.0
+2025-04-22 21:22:44,775 - Pipeline Time: 18.32s
+2025-04-22 21:22:44,775 - 
+Câu hỏi 109:
+2025-04-22 21:22:44,775 - Query: Tìm một vài phòng gym ở Đồng Tháp
+2025-04-22 21:22:44,775 - Expected Path: sql
+2025-04-22 21:22:44,776 - Actual Path: sql
+2025-04-22 21:22:44,776 - Path Correct: 1.0
+2025-04-22 21:22:44,776 - Pipeline Time: 29.02s
+2025-04-22 21:22:44,776 - 
+=== Kết thúc đánh giá ===
