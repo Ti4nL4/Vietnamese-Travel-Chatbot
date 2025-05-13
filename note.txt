@@ -1,4 +1,0 @@
-active myenv
-    . bin/activate
-run python
-    python demo.py
