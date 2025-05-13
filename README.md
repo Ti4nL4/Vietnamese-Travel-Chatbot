@@ -50,7 +50,6 @@ python setup_database.py
 ```
 
 ## Cấu trúc project
-- `tourism_llm_router.py`: Router chính xử lý các yêu cầu LLM
 - `semantic_search.py`: Module tìm kiếm ngữ nghĩa
 - `llm_sql_generator.py`: Tạo truy vấn SQL từ ngôn ngữ tự nhiên
 - `setup_database.py`: Script thiết lập cơ sở dữ liệu
@@ -71,9 +70,3 @@ Tạo file `.env` với các biến môi trường cần thiết:
 DATABASE_URL=your_database_url
 API_KEY=your_api_key
 ```
-
-## Đóng góp
-Mọi đóng góp đều được hoan nghênh. Vui lòng tạo issue hoặc pull request để đóng góp.
-
-## Giấy phép
-[Thêm thông tin về giấy phép của project] 
