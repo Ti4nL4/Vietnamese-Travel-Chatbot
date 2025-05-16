@@ -50,12 +50,19 @@ python setup_database.py
 ```
 
 ## Cấu trúc project
-- `semantic_search.py`: Module tìm kiếm ngữ nghĩa
-- `llm_sql_generator.py`: Tạo truy vấn SQL từ ngôn ngữ tự nhiên
-- `setup_database.py`: Script thiết lập cơ sở dữ liệu
-- `data/`: Thư mục chứa dữ liệu
-- `faiss_index/`: Thư mục chứa các index tìm kiếm
-- `logs/`: Thư mục chứa log files
+- `data/`: Chứa dữ liệu gốc ban đầu ở định dạng CSV.
+- `evaluation/`: Chứa mã nguồn dùng để kiểm thử và bộ dữ liệu kiểm thử.
+- `faiss_index/`: Lưu trữ chỉ mục FAISS để truy xuất ngữ nghĩa nhanh chóng.
+- `logs/`: Ghi lại log kết quả thực nghiệm như câu hỏi, câu trả lời, và các chỉ số đánh giá.
+- `rag_data/`: Chứa dữ liệu phi cấu trúc để dùng cho luồng RAG.
+- `sql_output/`: Chứa các file SQL là nội dung từ bộ dữ liệu dưới dạng CSV đã được chuyển đổi sang dạng SQL để thêm vào cơ sở dữ liệu.
+- `New_Architecture.png`: Hình ảnh mô tả sơ đồ kiến trúc hệ thống.
+- `csv_to_sql.py`: Chuyển đổi dữ liệu từ CSV sang câu lệnh SQL để nạp vào PostgreSQL.
+- `install_pgvector.py`: Cài đặt phần mở rộng pgvector cho PostgreSQL để hỗ trợ tìm kiếm vector.
+- `my_notebook.ipynb`, `my_notebook.py`: Chứa pipeline xử lý chính, bao gồm định tuyến, truy xuất và sinh phản hồi.
+- `pg_query.py`: Thực hiện truy vấn trực tiếp đến cơ sở dữ liệu PostgreSQL.
+- `setup_database.py`: Khởi tạo cơ sở dữ liệu, bao gồm tạo bảng và nạp dữ liệu.
+- `requirements.txt`: Danh sách thư viện Python cần thiết để cài đặt môi trường.
 
 ## Sử dụng
 1. Đảm bảo đã cài đặt và cấu hình đúng môi trường
