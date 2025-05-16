@@ -173,7 +173,7 @@ def rag_pipeline(query):
 
 # Ví dụ sử dụng
 # query = "Những điểm du lịch nổi bật ở Đà Nẵng?"
-query = "Festval phở 2025 diễn ra khi nào?"
+# query = "Festval phở 2025 diễn ra khi nào?"
 # query = "Doanh thu của Du lịch Huế trong quý I năm 2025?"
 # query = "Phù điêu Kala Núi Bà là gì?"
 
@@ -182,6 +182,6 @@ query = "Festval phở 2025 diễn ra khi nào?"
 # query = "Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội"
 
 
-print(rag_pipeline(query))
+# print(rag_pipeline(query))
 
 

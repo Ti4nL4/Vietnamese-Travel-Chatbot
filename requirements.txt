@@ -5,7 +5,7 @@ python-dotenv==1.0.0
 numpy==1.24.3
 langchain==0.1.0
 langchain-community==0.0.10
-faiss-cpu==1.6.5
+faiss-cpu==1.7.4
 pydantic==1.10.13
 ollama==0.1.6
 huggingface-hub==0.19.4
