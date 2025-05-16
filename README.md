@@ -68,12 +68,18 @@ python setup_database.py
 1. Đảm bảo đã cài đặt và cấu hình đúng môi trường
 2. Chạy router chính:
 ```bash
-python tourism_llm_router.py
+python mynotebook_.py
 ```
-
+3. Chạy testcase
+```bash
+python evaluation/main_evaluation.py
+```
 ## Cấu hình
 Tạo file `.env` với các biến môi trường cần thiết:
 ```
-DATABASE_URL=your_database_url
-API_KEY=your_api_key
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT= 
 ```
