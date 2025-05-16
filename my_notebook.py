@@ -4,9 +4,9 @@
 # In[1]:
 
 
-from langchain.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.document_loaders import TextLoader,PyPDFLoader, DirectoryLoader
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.document_loaders import TextLoader,PyPDFLoader, DirectoryLoader
 from sentence_transformers import SentenceTransformer
 from langchain.embeddings.base import Embeddings
 import os
@@ -173,7 +173,7 @@ def rag_pipeline(query):
 
 # Ví dụ sử dụng
 # query = "Những điểm du lịch nổi bật ở Đà Nẵng?"
-# query = "Festval phở 2025 diễn ra khi nào?"
+query = "Festval phở 2025 diễn ra khi nào?"
 # query = "Doanh thu của Du lịch Huế trong quý I năm 2025?"
 # query = "Phù điêu Kala Núi Bà là gì?"
 
@@ -182,6 +182,6 @@ def rag_pipeline(query):
 # query = "Cho tôi biết thông tin của một số nơi lưu trú ở Hà Nội"
 
 
-# print(rag_pipeline(query))
+print(rag_pipeline(query))
 
 
