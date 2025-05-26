@@ -14,7 +14,7 @@ Dự án này là một hệ thống xử lý và phân tích dữ liệu du l�
 - Hỗ trợ tìm kiếm thông minh thông qua FAISS index
 
 ## Yêu cầu hệ thống
-- Python 3.x
+- Python 3.9 
 - PostgreSQL với extension pgvector
 - Các thư viện Python (xem requirements.txt)
 
